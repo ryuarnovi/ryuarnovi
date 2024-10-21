@@ -18,7 +18,7 @@
 <table width="100">
 <tr>
     <td align='center' width="190">
-        <img src="https://github.com/(https://icons8.com/icon/4djt356tq8UO/apache-netbeans)" width="60">
+        <img src="(https://icons8.com/icon/4djt356tq8UO/apache-netbeans)" width="60">
     </td>
     <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg">
