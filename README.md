@@ -63,7 +63,6 @@ Berikut adalah beberapa teknologi yang digunakan dalam proyek ini:
       <img src="https://th.bing.com/th?id=OSK.ee805d80bdee4d04e616cf51f90c78cc&w=80&h=80&r=0&o=6&cb=B&pid=1.2" alt="Java" width="350" height="300">
       <p>Java</p>
     </td>
-  <td align="center" colspan="6">
   <tr>
    <td align="center" colspan="6">
       <img src="https://th.bing.com/th?id=OSK.8f8dc666e2dcf498021a8e51ae2b25de&w=80&h=80&r=0&o=6&cb=B&pid=1.2" alt="Laravel" width="350" height="300">
