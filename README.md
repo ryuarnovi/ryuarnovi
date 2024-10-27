@@ -48,7 +48,12 @@
         <td align='center' colspan="4">
             <h2>Visit Our Google Site</h2>
             <a href="https://sites.google.com/yourgoogleprofile" target="_blank">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Google_Sites_logo.svg/512px-Google_Sites_logo.svg.png" alt="Google" width="60">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Google_Sites_logo.svg/512px-Google_Sites_logo.svg.png" alt="Google Sites" width="60">
+            </a>
+            <br>
+            <h3>Your Profile Picture</h3>
+            <a href="https://sites.google.com/yourgoogleprofile" target="_blank">
+                <img src="URL_GAMBAR_PROFIL_ANDA" alt="Profile Picture" width="100">
             </a>
         </td>
     </tr>
