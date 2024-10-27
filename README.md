@@ -13,7 +13,7 @@
 
 <section align="center">
 
-<h2 align='center'><i>My Profile Github and Profile Media Socials/i></h2>
+<h2 align='center'><i>My Profile Github and Profile Media Socials</i></h2>
 
 <table width="100">
 <tr>
