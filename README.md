@@ -84,7 +84,7 @@ Berikut adalah beberapa teknologi yang digunakan dalam proyek ini:
       <p>MySQL</p>
     </td>
     <td align="center" colspan="6">
-      <img src="https://th.bing.com/th/id/OIP.67djL6Ejazaexr_EmA6FTgHaDd?w=338&h=163&c=7&r=0&o=5&pid=1.7" alt="SQL" width="200" height="200">
+      <img src="https://th.bing.com/th/id/OIP.76q5SEInY3E8j1zRAa9mMwHaDn?w=341&h=170&c=7&r=0&o=5&pid=1.7" alt="SQL" width="200" height="200">
       <p>SQL</p>
     </td>
   </tr>
