@@ -26,7 +26,7 @@
 
 Here are some of the technologies I work with:
     <tr>
-        <td align="center" colspan="4">
+        <td align="center" colspan="6">
             <h2>Follow My Instagram</h2>
             <a href="https://www.instagram.com/ryunovii?igsh=NmtmNHhvaDNlcjNr" target="_blank">
                 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="60">
@@ -34,7 +34,7 @@ Here are some of the technologies I work with:
         </td>
     </tr>
     <tr>
-        <td align="center" colspan="4">
+        <td align="center" colspan="6">
             <h2>My Profile and Carrier</h2>
             <a href="https://sites.google.com/view/portofolio-rizkiardi/" target="_blank">
                 <img src="https://th.bing.com/th/id/OIP.hBZqDbW1lGlJy7uy06ro8wHaFj?w=866&h=650&rs=1&pid=ImgDetMain" alt="Google Sites" width="60">
@@ -51,39 +51,39 @@ Berikut adalah beberapa teknologi yang digunakan dalam proyek ini:
 
 <table>
   <tr>
-    <td align="center" colspan="4">
+    <td align="center" colspan="6">
       <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/CSS3_logo_and_wordmark.svg" alt="CSS" width="200" height="200">
       <p>CSS</p>
     </td>
-   <td align="center" colspan="4">
+   <td align="center" colspan="6">
       <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="200" height="200">
       <p>Bootstrap</p>
     </td>
-    <td align="center" colspan="4">
+    <td align="center" colspan="6">
       <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Java_logo_and_wordmark.svg" alt="Java" width="200" height="200">
       <p>Java</p>
     </td>
-  <td align="center" colspan="4">
+  <td align="center" colspan="6">
   <tr>
-   <td align="center" colspan="4">
+   <td align="center" colspan="6">
       <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Laravel_logo.png" alt="Laravel" width="200" height="200">
       <p>Laravel</p>
     </td>
-   <td align="center" colspan="4">
+   <td align="center" colspan="6">
       <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="200" height="200">
       <p>HTML</p>
     </td>
-    <td align="center" colspan="4">
+    <td align="center" colspan="6">
       <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" width="200" height="200">
       <p>PHP</p>
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="4">
+    <td align="center" colspan="6">
       <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/MySQL_logo_and_wordmark.svg" alt="MySQL" width="200" height="200">
       <p>MySQL</p>
     </td>
-    <td align="center" colspan="4">
+    <td align="center" colspan="6">
       <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/SQL_Logo.svg" alt="SQL" width="200" height="200">
       <p>SQL</p>
     </td>
