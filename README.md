@@ -47,7 +47,7 @@
     <tr>
         <td align='center' colspan="4">
             <h2>Visit Our Google Site</h2>
-            <a href="https://sites.google.com/yourgoogleprofile" target="_blank">
+            <a href="https://sites.google.com/view/portofolio-rizkiardi/" target="_blank">
                 <img src="https://th.bing.com/th/id/OIP.hBZqDbW1lGlJy7uy06ro8wHaFj?w=866&h=650&rs=1&pid=ImgDetMain" alt="Google Sites" width="60">
             </a>
         </td>
