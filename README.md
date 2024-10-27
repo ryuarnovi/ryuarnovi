@@ -66,7 +66,7 @@ Berikut adalah beberapa teknologi yang digunakan dalam proyek ini:
   <td align="center" colspan="6">
   <tr>
    <td align="center" colspan="6">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Laravel_logo.png" alt="Laravel" width="200" height="200">
+      <img src="https://th.bing.com/th?id=OSK.8f8dc666e2dcf498021a8e51ae2b25de&w=80&h=80&r=0&o=6&cb=B&pid=1.2" alt="Laravel" width="200" height="200">
       <p>Laravel</p>
     </td>
    <td align="center" colspan="6">
@@ -80,11 +80,11 @@ Berikut adalah beberapa teknologi yang digunakan dalam proyek ini:
   </tr>
   <tr>
     <td align="center" colspan="6">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/MySQL_logo_and_wordmark.svg" alt="MySQL" width="200" height="200">
+      <img src="https://th.bing.com/th/id/OIP.uEmYw4cyGMytF6Pc6VmuOQHaHa?w=165&h=180&c=7&r=0&o=5&pid=1.7" alt="MySQL" width="200" height="200">
       <p>MySQL</p>
     </td>
     <td align="center" colspan="6">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/SQL_Logo.svg" alt="SQL" width="200" height="200">
+      <img src="https://th.bing.com/th/id/OIP.67djL6Ejazaexr_EmA6FTgHaDd?w=338&h=163&c=7&r=0&o=5&pid=1.7" alt="SQL" width="200" height="200">
       <p>SQL</p>
     </td>
   </tr>
