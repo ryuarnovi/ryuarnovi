@@ -39,7 +39,7 @@
     <tr>
         <td align='center' colspan="4">
             <h2>Follow Us on Instagram</h2>
-            <a href="https://instagram.com/[yourprofile](https://www.instagram.com/[ryuarnovii?igsh=NmtmNHhvaDNlcjNrhttps://www.instagram.com/ryuarnovii?igsh=NmtmNHhvaDNlcjNr)](https://www.instagram.com/ryunovii?igsh=NmtmNHhvaDNlcjNr)" target="_blank">
+            <a href="https://instagram.com/(https://www.instagram.com/[ryuarnovii?igsh=NmtmNHhvaDNlcjNrhttps://www.instagram.com/ryuarnovii?igsh=NmtmNHhvaDNlcjNr)](https://www.instagram.com/ryunovii?igsh=NmtmNHhvaDNlcjNr)" target="_blank">
                 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="60">
             </a>
         </td>
