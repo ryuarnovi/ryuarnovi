@@ -41,7 +41,7 @@ Here are some of the technologies I work with:
             </a>
         </td>
     </tr>
-    # Nama Proyek
+# Nama Proyek
 
 Deskripsi singkat tentang proyek Anda dan apa yang dilakukannya.
 
@@ -49,17 +49,21 @@ Deskripsi singkat tentang proyek Anda dan apa yang dilakukannya.
 
 Berikut adalah beberapa teknologi yang digunakan dalam proyek ini:
 
-<div align="center">
-
 | CSS | Bootstrap | Java | Laravel |
 |-----|-----------|------|---------|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/CSS3_logo_and_wordmark.svg" alt="CSS" width="80"> | <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="80"> | <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Java_logo_and_wordmark.svg" alt="Java" width="80"> | <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Laravel_logo.png" alt="Laravel" width="80"> |
+| ![CSS](https://upload.wikimedia.org/wikipedia/commons/d/d9/CSS3_logo_and_wordmark.svg) | ![Bootstrap](https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg) | ![Java](https://upload.wikimedia.org/wikipedia/commons/3/30/Java_logo_and_wordmark.svg) | ![Laravel](https://upload.wikimedia.org/wikipedia/commons/9/96/Laravel_logo.png) |
 
 | HTML | PHP | MySQL | SQL |
 |------|-----|-------|-----|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="80"> | <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" width="80"> | <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/MySQL_logo_and_wordmark.svg" alt="MySQL" width="80"> | <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/SQL_Logo.svg" alt="SQL" width="80"> |
+| ![HTML](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg) | ![PHP](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg) | ![MySQL](https://upload.wikimedia.org/wikipedia/commons/8/8c/MySQL_logo_and_wordmark.svg) | ![SQL](https://upload.wikimedia.org/wikipedia/commons/9/92/SQL_Logo.svg) |
 
-</div>
+## Instalasi
+
+Berikan langkah-langkah untuk menginstal proyek Anda. Misalnya:
+
+1. Clone repositori ini:
+   ```bash
+   git clone https://github.com/username/repo.git
 
 </table>
 </section>
