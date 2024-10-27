@@ -43,7 +43,9 @@
             </a>
         </td>
     </tr>
-# Nama Proyek
+
+<table>
+    # Nama Proyek
 
 Deskripsi singkat tentang proyek Anda dan apa yang dilakukannya.
 
@@ -51,7 +53,6 @@ Deskripsi singkat tentang proyek Anda dan apa yang dilakukannya.
 
 Berikut adalah beberapa teknologi yang digunakan dalam proyek ini:
 
-<table>
   <tr>
     <td align="center" colspan="6">
       <img src="https://jpacanowski.github.io/img/css3.png" alt="CSS" width="350" height="300">
