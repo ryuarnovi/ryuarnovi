@@ -84,7 +84,7 @@
       <p>MySQL</p>
     </td>
     <td align="center" colspan="6">
-      <img src="https://th.bing.com/th/id/OIP.76q5SEInY3E8j1zRAa9mMwHaDn?w=341&h=170&c=7&r=0&o=5&pid=1.7" alt="SQL" width="350" height="300">
+      <img src="https://geekhacker.ru/wp-content/uploads/2021/03/sql_logo.png" alt="SQL" width="350" height="300">
       <p>SQL</p>
     </td>
           <td align="center" colspan="6">
