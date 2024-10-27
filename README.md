@@ -52,7 +52,7 @@ Berikut adalah beberapa teknologi yang digunakan dalam proyek ini:
 <table>
   <tr>
     <td align="center" colspan="6">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/CSS3_logo_and_wordmark.svg" alt="CSS" width="200" height="200">
+      <img src="https://jpacanowski.github.io/img/css3.png" alt="CSS" width="200" height="200">
       <p>CSS</p>
     </td>
    <td align="center" colspan="6">
@@ -60,7 +60,7 @@ Berikut adalah beberapa teknologi yang digunakan dalam proyek ini:
       <p>Bootstrap</p>
     </td>
     <td align="center" colspan="6">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Java_logo_and_wordmark.svg" alt="Java" width="200" height="200">
+      <img src="https://th.bing.com/th?id=OSK.ee805d80bdee4d04e616cf51f90c78cc&w=80&h=80&r=0&o=6&cb=B&pid=1.2" alt="Java" width="200" height="200">
       <p>Java</p>
     </td>
   <td align="center" colspan="6">
