@@ -22,44 +22,21 @@
 <polygon fill="#e0e0e0" points="24,36.992 24,22.9 35,17 35,31"></polygon><polygon fill="#fff" points="24,36.992 24,22.9 13,17 13,31"></polygon><polygon fill="#f5f5f5" points="13,17 24,11.008 35,17 24,22.9"></polygon><polygon fill="#29b6f6" points="24,45 24,36.992 35,31 42,35"></polygon><polygon fill="#0288d1" points="35,17 42,13 42,35 35,31"></polygon><polygon fill="#9ccc65" points="24,3 24,11.008 35,17 42,13"></polygon><polygon fill="#7cb342" points="6,13 13,17 24,11.008 24,3"></polygon><polygon fill="#c2185b" points="6,35 13,31 13,17 6,13"></polygon><polygon fill="#ec407a" points="24,45 24,36.992 13,31 6,35"></polygon>
 </svg>    </td>
 <table>
-<table>
-    <tr>
-        <td align='center' width="100">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/CSS3_logo_and_wordmark.svg" alt="CSS" width="80">
-            <p>CSS</p>
-        </td>
-        <td align='center' width="100">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="80">
-            <p>Bootstrap</p>
-        </td>
-        <td align='center' width="100">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Java_logo_and_wordmark.svg" alt="Java" width="80">
-            <p>Java</p>
-        </td>
-        <td align='center' width="100">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Laravel_logo.png" alt="Laravel" width="80">
-            <p>Laravel</p>
-        </td>
-    </tr>
-    <tr>
-        <td align='center' width="100">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="80">
-            <p>HTML</p>
-        </td>
-        <td align='center' width="100">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" width="80">
-            <p>PHP</p>
-        </td>
-        <td align='center' width="100">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/MySQL_logo_and_wordmark.svg" alt="MySQL" width="80">
-            <p>MySQL</p>
-        </td>
-        <td align='center' width="100">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/SQL_Logo.svg" alt="SQL" width="80">
-            <p>SQL</p>
-        </td>
-    </tr>
-</table>
+# Technologies Used
+
+Here are some of the technologies I work with:
+
+<div align="center">
+
+| CSS | Bootstrap | Java | Laravel |
+|-----|-----------|------|---------|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/CSS3_logo_and_wordmark.svg" alt="CSS" width="80"> | <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="80"> | <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Java_logo_and_wordmark.svg" alt="Java" width="80"> | <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Laravel_logo.png" alt="Laravel" width="80"> |
+
+| HTML | PHP | MySQL | SQL |
+|------|-----|-------|-----|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="80"> | <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" width="80"> | <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/MySQL_logo_and_wordmark.svg" alt="MySQL" width="80"> | <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/SQL_Logo.svg" alt="SQL" width="80"> |
+
+</div>
     <tr>
         <td align='center' colspan="4">
             <h2>Follow My Instagram</h2>
