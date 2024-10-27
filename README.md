@@ -44,12 +44,8 @@
     </tr>
 
 <table>
-
-
+    
 ## My Program Language
-
-
-
 
   <tr>
     <td align="center" colspan="6">
@@ -93,8 +89,9 @@
     </td>
   </tr>
 </table>
-<table>
+
 ## My Soft Skills
+<table>
      <tr>
         <td align="center" colspan="6">
             <h2>Data Analys</h2>
@@ -102,5 +99,5 @@
             </a>
         </td>
     </tr>
-<table>
+</table>
 </section>
