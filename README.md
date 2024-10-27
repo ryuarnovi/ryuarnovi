@@ -94,7 +94,7 @@
   </tr>
 </table>
 <table>
-  ##  <p align="center">My Soft Skill</p>
+  ##  My Soft Skill
      <tr>
         <td align="center" colspan="6">
             <h2>Data Analys</h2>
