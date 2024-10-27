@@ -66,7 +66,7 @@
     </td>
   <tr>
    <td align="center" colspan="6">
-      <img src="https://th.bing.com/th?id=OSK.8f8dc666e2dcf498021a8e51ae2b25de&w=80&h=80&r=0&o=6&cb=B&pid=1.2" alt="Laravel" width="350" height="300">
+      <img src="https://th.bing.com/th?id=OSK.8f8dc666e2dcf498021a8e51ae2b25de&w=80&h=80&r=0&o=6&cb=B&pid=1.2" alt="Laravel" width="400" height="300">
       <p>Laravel</p>
     </td>
    <td align="center" colspan="6">
