@@ -86,8 +86,10 @@ Berikut adalah beberapa teknologi yang digunakan dalam proyek ini:
       <img src="https://th.bing.com/th/id/OIP.76q5SEInY3E8j1zRAa9mMwHaDn?w=341&h=170&c=7&r=0&o=5&pid=1.7" alt="SQL" width="350" height="300">
       <p>SQL</p>
     </td>
+          <td align="center" colspan="6">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_plusplus_logo.svg" alt="C++" width="60">
+      <p>C++</p>
+    </td>
   </tr>
-  </td>
-</tr>
 </table>
 </section>
