@@ -37,15 +37,19 @@
         </td>
     </tr>
     <tr>
-        <td colspan="4" align='center'>
+        <td align='center' colspan="4">
             <h2>Follow Us on Instagram</h2>
-            <a href="https://instagram.com/yourprofile" target="_blank">Instagram Profile</a>
+            <a href="https://instagram.com/yourprofile" target="_blank">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="60">
+            </a>
         </td>
     </tr>
     <tr>
-        <td colspan="4" align='center'>
+        <td align='center' colspan="4">
             <h2>Visit Our Google Site</h2>
-            <a href="https://sites.google.com/yourgoogleprofile" target="_blank">Google Site</a>
+            <a href="https://sites.google.com/yourgoogleprofile" target="_blank">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Google_Sites_logo.svg/512px-Google_Sites_logo.svg.png" alt="Google Sites" width="60">
+            </a>
         </td>
     </tr>
 </table>
