@@ -32,7 +32,7 @@
         <td align="center" colspan="6">
             <h2>My Profile and Carrier</h2>
             <a href="https://sites.google.com/view/portofolio-rizkiardi/" target="_blank">
-                <img src="https://th.bing.com/th/id/OIP.hBZqDbW1lGlJy7uy06ro8wHaFj?w=866&h=650&rs=1&pid=ImgDetMain" alt="Google Sites" width="240">
+                <img src="https://vignette.wikia.nocookie.net/logopedia/images/9/9b/Google-Sites-Icon-2016.png/revision/latest?cb=20170613191011" alt="Google Sites" width="240">
             </a>
         </td>
         <td align="center" colspan="6">
