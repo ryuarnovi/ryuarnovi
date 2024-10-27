@@ -61,7 +61,7 @@
       <p>Bootstrap</p>
     </td>
     <td align="center" colspan="6">
-      <img src="https://www.ukhost4u.com/wp-content/uploads/2020/12/NetBeans-Logo-300x200.png" alt="Java" width="350" height="300">
+      <img src="https://www.ukhost4u.com/wp-content/uploads/2020/12/NetBeans-Logo-300x200.png" alt="Java" width="400" height="300">
       <p>Java NetBeans</p>
     </td>
   <tr>
