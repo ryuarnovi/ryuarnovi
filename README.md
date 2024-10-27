@@ -57,7 +57,7 @@
       <p>CSS</p>
     </td>
    <td align="center" colspan="6">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="350" height="300">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="250" height="200">
       <p>Bootstrap</p>
     </td>
     <td align="center" colspan="6">
