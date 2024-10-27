@@ -45,9 +45,7 @@
     </tr>
 
 <table>
-    # Nama Proyek
 
-Deskripsi singkat tentang proyek Anda dan apa yang dilakukannya.
 
 ## Teknologi yang Digunakan
 
