@@ -80,7 +80,7 @@
   </tr>
   <tr>
     <td align="center" colspan="6">
-      <img src="https://th.bing.com/th/id/OIP.uEmYw4cyGMytF6Pc6VmuOQHaHa?w=165&h=180&c=7&r=0&o=5&pid=1.7" alt="MySQL" width="350" height="300">
+      <img src="https://brandslogos.com/wp-content/uploads/images/large/mysql-logo-1.png" alt="MySQL" width="350" height="300">
       <p>MySQL</p>
     </td>
     <td align="center" colspan="6">
