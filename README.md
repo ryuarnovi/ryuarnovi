@@ -41,6 +41,25 @@ Here are some of the technologies I work with:
             </a>
         </td>
     </tr>
-</table>
+    # Nama Proyek
+
+Deskripsi singkat tentang proyek Anda dan apa yang dilakukannya.
+
+## Teknologi yang Digunakan
+
+Berikut adalah beberapa teknologi yang digunakan dalam proyek ini:
+
+<div align="center">
+
+| CSS | Bootstrap | Java | Laravel |
+|-----|-----------|------|---------|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/CSS3_logo_and_wordmark.svg" alt="CSS" width="80"> | <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="80"> | <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Java_logo_and_wordmark.svg" alt="Java" width="80"> | <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Laravel_logo.png" alt="Laravel" width="80"> |
+
+| HTML | PHP | MySQL | SQL |
+|------|-----|-------|-----|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="80"> | <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" width="80"> | <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/MySQL_logo_and_wordmark.svg" alt="MySQL" width="80"> | <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/SQL_Logo.svg" alt="SQL" width="80"> |
+
+</div>
+
 </table>
 </section>
