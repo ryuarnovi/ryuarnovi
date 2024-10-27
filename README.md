@@ -39,7 +39,7 @@
         </td>
         <td align="center" colspan="6">
             <h2>Contact Me on WhatsApp</h2>
-            <a href="https://wa.me/yourphonenumber" target="_blank">
+            <a href="https://wa.me/message/TSYJ5QPWJWOOM1" target="_blank">
                 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="240">
             </a>
         </td>
