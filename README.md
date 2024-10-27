@@ -25,7 +25,7 @@
 # Technologies Used
 
 Here are some of the technologies I work with:
-    <tr>
+     <tr>
         <td align="center" colspan="6">
             <h2>Follow My Instagram</h2>
             <a href="https://www.instagram.com/ryunovii?igsh=NmtmNHhvaDNlcjNr" target="_blank">
@@ -38,6 +38,14 @@ Here are some of the technologies I work with:
             <h2>My Profile and Carrier</h2>
             <a href="https://sites.google.com/view/portofolio-rizkiardi/" target="_blank">
                 <img src="https://th.bing.com/th/id/OIP.hBZqDbW1lGlJy7uy06ro8wHaFj?w=866&h=650&rs=1&pid=ImgDetMain" alt="Google Sites" width="60">
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center" colspan="6">
+            <h2>Contact Me on WhatsApp</h2>
+            <a href="https://wa.me/yourphonenumber" target="_blank">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="60">
             </a>
         </td>
     </tr>
