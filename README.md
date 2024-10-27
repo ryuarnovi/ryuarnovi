@@ -97,7 +97,7 @@
     <p align="center">My Soft Skill</p>
      <tr>
         <td align="center" colspan="6">
-            <h2>Data Analys/h2>
+            <h2>Data Analys</h2>
                 <img src="https://www.pngplay.com/wp-content/uploads/6/Analysis-Scan-PNG.png" alt="data" width="240">
             </a>
         </td>
