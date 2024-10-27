@@ -49,16 +49,47 @@ Deskripsi singkat tentang proyek Anda dan apa yang dilakukannya.
 
 Berikut adalah beberapa teknologi yang digunakan dalam proyek ini:
 
-| Teknologi | Logo |
-|-----------|------|
-| CSS       | <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/CSS3_logo_and_wordmark.svg" alt="CSS" width="500" height="500"> |
-| Bootstrap | <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="500" height="500"> |
-| Java      | <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Java_logo_and_wordmark.svg" alt="Java" width="500" height="500"> |
-| Laravel   | <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Laravel_logo.png" alt="Laravel" width="500" height="500"> |
-| HTML      | <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="500" height="500"> |
-| PHP       | <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" width="500" height="500"> |
-| MySQL     | <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/MySQL_logo_and_wordmark.svg" alt="MySQL" width="500" height="500"> |
-| SQL       | <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/SQL_Logo.svg" alt="SQL" width="500" height="500"> |
+<table>
+  <tr>
+    <td>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/CSS3_logo_and_wordmark.svg" alt="CSS" width="200" height="200">
+      <p>CSS</p>
+    </td>
+    <td>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="200" height="200">
+      <p>Bootstrap</p>
+    </td>
+    <td>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Java_logo_and_wordmark.svg" alt="Java" width="200" height="200">
+      <p>Java</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Laravel_logo.png" alt="Laravel" width="200" height="200">
+      <p>Laravel</p>
+    </td>
+    <td>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="200" height="200">
+      <p>HTML</p>
+    </td>
+    <td>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" width="200" height="200">
+      <p>PHP</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/MySQL_logo_and_wordmark.svg" alt="MySQL" width="200" height="200">
+      <p>MySQL</p>
+    </td>
+    <td>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/SQL_Logo.svg" alt="SQL" width="200" height="200">
+      <p>SQL</p>
+    </td>
+    <td></td> <!-- Kosongkan kolom jika tidak ada gambar -->
+  </tr>
+</table>
 
 ## Instalasi
 
@@ -67,6 +98,5 @@ Berikan langkah-langkah untuk menginstal proyek Anda. Misalnya:
 1. Clone repositori ini:
    ```bash
    git clone https://github.com/username/repo.git
-
 </table>
 </section>
