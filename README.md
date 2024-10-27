@@ -88,7 +88,7 @@
       <p>SQL</p>
     </td>
           <td align="center" colspan="6">
-                <img src="https://th.bing.com/th?id=OSK.830992e6b8f0c7bc66cd3d6fa3db36b4&w=102&h=102&c=7&o=6&pid=SANGAM" alt="C++"width="350" height="300">
+                <img src="https://www.pinclipart.com/picdir/big/396-3965857_c-c-programming-language-logo-clipart.png" alt="C++"width="350" height="300">
       <p>C++</p>
     </td>
   </tr>
