@@ -19,9 +19,11 @@
 <tr>
 <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="100" height="100" viewBox="0 0 48 48">
 <polygon fill="#e0e0e0" points="24,36.992 24,22.9 35,17 35,31"></polygon><polygon fill="#fff" points="24,36.992 24,22.9 13,17 13,31"></polygon><polygon fill="#f5f5f5" points="13,17 24,11.008 35,17 24,22.9"></polygon><polygon fill="#29b6f6" points="24,45 24,36.992 35,31 42,35"></polygon><polygon fill="#0288d1" points="35,17 42,13 42,35 35,31"></polygon><polygon fill="#9ccc65" points="24,3 24,11.008 35,17 42,13"></polygon><polygon fill="#7cb342" points="6,13 13,17 24,11.008 24,3"></polygon><polygon fill="#c2185b" points="6,35 13,31 13,17 6,13"></polygon><polygon fill="#ec407a" points="24,45 24,36.992 13,31 6,35"></polygon>
-</svg>    
+</svg> 
+    
+## My Social Media
+    
 <table>
-    <p align="center">My Social Media</p>
      <tr>
         <td align="center" colspan="6">
             <h2>Follow My Instagram</h2>
