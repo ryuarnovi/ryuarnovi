@@ -6,6 +6,8 @@
 - ⚡ Fun fact: ...
 -->
 
+  ### FOR MY PORTFOLIO LARAVEL IS MAINTENE, COMING SOON FOR ALREADY FIXED
+
 
 
 
