@@ -1,107 +1,202 @@
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">👋 Welcome to My Portfolio</h1>
 
-  ### FOR MY PORTFOLIO LARAVEL IS MAINTENE, COMING SOON FOR ALREADY FIXED
+<div align="center">
+  <p><i>Software Developer | Data Analyst | Full-Stack Developer</i></p>
+</div>
+import React, { useState, useEffect } from 'react';
+import { Card } from '@/components/ui/card';
+import { Button } from '@/components/ui/button';
+import { Trophy, Heart } from 'lucide-react';
 
+const MiniGame = () => {
+  const [position, setPosition] = useState(0);
+  const [obstacles, setObstacles] = useState([]);
+  const [score, setScore] = useState(0);
+  const [gameOver, setGameOver] = useState(false);
+  const [lives, setLives] = useState(3);
+  const [isPlaying, setIsPlaying] = useState(false);
 
-
-
-
-
-<section align="center">
-
-<h2 align='center'><i>My Profile Github and Profile Media Socials</i></h2>
-
-<table width="100">
-<tr>
-<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="100" height="100" viewBox="0 0 48 48">
-<polygon fill="#e0e0e0" points="24,36.992 24,22.9 35,17 35,31"></polygon><polygon fill="#fff" points="24,36.992 24,22.9 13,17 13,31"></polygon><polygon fill="#f5f5f5" points="13,17 24,11.008 35,17 24,22.9"></polygon><polygon fill="#29b6f6" points="24,45 24,36.992 35,31 42,35"></polygon><polygon fill="#0288d1" points="35,17 42,13 42,35 35,31"></polygon><polygon fill="#9ccc65" points="24,3 24,11.008 35,17 42,13"></polygon><polygon fill="#7cb342" points="6,13 13,17 24,11.008 24,3"></polygon><polygon fill="#c2185b" points="6,35 13,31 13,17 6,13"></polygon><polygon fill="#ec407a" points="24,45 24,36.992 13,31 6,35"></polygon>
-</svg> 
+  useEffect(() => {
+    if (!isPlaying || gameOver) return;
     
-## My Social Media
-    
-<table>
-     <tr>
-        <td align="center" colspan="6">
-            <h2>Follow My Instagram</h2>
-            <a href="https://www.instagram.com/ryunovii?igsh=NmtmNHhvaDNlcjNr" target="_blank">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="240">
-            </a>
-        </td>
-        <td align="center" colspan="6">
-            <h2>My Profile and Carrier</h2>
-            <a href="https://sites.google.com/view/portofolio-rizkiardi/" target="_blank">
-                <img src="https://vignette.wikia.nocookie.net/logopedia/images/9/9b/Google-Sites-Icon-2016.png/revision/latest?cb=20170613191011" alt="Google Sites" width="240">
-            </a>
-        </td>
-        <td align="center" colspan="6">
-            <h2>Contact Me on WhatsApp</h2>
-            <a href="https://wa.me/message/TSYJ5QPWJWOOM1" target="_blank">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="240">
-            </a>
-        </td>
-    </tr>
+    const gameLoop = setInterval(() => {
+      setObstacles(prev => {
+        // Move obstacles left
+        const newObstacles = prev
+          .map(obs => ({ ...obs, x: obs.x - 5 }))
+          .filter(obs => obs.x > -20);
 
-<table>
-    
-## My Program Language
+        // Check collisions
+        newObstacles.forEach(obs => {
+          if (Math.abs(obs.x - 50) < 20 && Math.abs(obs.y - position) < 30) {
+            setLives(prev => {
+              if (prev <= 1) {
+                setGameOver(true);
+                setIsPlaying(false);
+              }
+              return prev - 1;
+            });
+          }
+        });
 
-  <tr>
-    <td align="center" colspan="6">
-      <img src="https://jpacanowski.github.io/img/css3.png" alt="CSS" width="350" height="300">
-      <p>CSS</p>
-    </td>
-   <td align="center" colspan="6">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="250" height="200">
-      <p>Bootstrap</p>
-    </td>
-    <td align="center" colspan="6">
-      <img src="https://www.ukhost4u.com/wp-content/uploads/2020/12/NetBeans-Logo-300x200.png" alt="Java" width="400" height="300">
-      <p>Java NetBeans</p>
-    </td>
-  <tr>
-   <td align="center" colspan="6">
-      <img src="https://logospng.org/download/laravel/logo-laravel-icon-1024.png" alt="Laravel" width="300" height="300">
-      <p>Laravel</p>
-    </td>
-   <td align="center" colspan="6">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="350" height="300">
-      <p>HTML</p>
-    </td>
-    <td align="center" colspan="6">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" width="350" height="300">
-      <p>PHP</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="6">
-      <img src="https://brandslogos.com/wp-content/uploads/images/large/mysql-logo-1.png" alt="MySQL" width="350" height="300">
-      <p>MySQL</p>
-    </td>
-    <td align="center" colspan="6">
-      <img src="https://geekhacker.ru/wp-content/uploads/2021/03/sql_logo.png" alt="SQL" width="350" height="300">
-      <p>SQL</p>
-    </td>
-          <td align="center" colspan="6">
-                <img src="https://www.pinclipart.com/picdir/big/396-3965857_c-c-programming-language-logo-clipart.png" alt="C++"width="200" height="200">
-      <p>C++</p>
-    </td>
-  </tr>
-</table>
+        return newObstacles;
+      });
 
-## My Soft Skills
-<table>
-     <tr>
-        <td align="center" colspan="6">
-            <h2>Data Analys</h2>
-                <img src="https://www.pngplay.com/wp-content/uploads/6/Analysis-Scan-PNG.png" alt="data" width="240">
-            </a>
-        </td>
-    </tr>
-</table>
-</section>
+      setScore(prev => prev + 1);
+
+      // Add new obstacles
+      if (Math.random() < 0.03) {
+        setObstacles(prev => [...prev, {
+          x: 400,
+          y: Math.floor(Math.random() * 280),
+          id: Date.now()
+        }]);
+      }
+    }, 50);
+
+    return () => clearInterval(gameLoop);
+  }, [isPlaying, position, gameOver]);
+
+  const handleJump = () => {
+    if (!isPlaying) return;
+    setPosition(prev => Math.max(0, Math.min(280, prev + (prev > 140 ? -40 : 40))));
+  };
+
+  const startGame = () => {
+    setScore(0);
+    setLives(3);
+    setPosition(140);
+    setObstacles([]);
+    setGameOver(false);
+    setIsPlaying(true);
+  };
+
+  return (
+    <Card className="w-full max-w-lg p-4">
+      <div className="text-center mb-4">
+        <h2 className="text-2xl font-bold mb-2">Portfolio Runner</h2>
+        <div className="flex justify-center gap-4 mb-2">
+          <div className="flex items-center gap-2">
+            <Trophy className="text-yellow-500" />
+            <span>Score: {score}</span>
+          </div>
+          <div className="flex items-center gap-2">
+            <Heart className="text-red-500" />
+            <span>Lives: {lives}</span>
+          </div>
+        </div>
+      </div>
+
+      <div 
+        className="relative bg-gray-100 w-full h-80 rounded-lg overflow-hidden cursor-pointer"
+        onClick={handleJump}
+      >
+        {/* Player */}
+        <div 
+          className="absolute w-8 h-8 bg-blue-500 rounded-full transition-all duration-100"
+          style={{ 
+            left: '50px',
+            top: `${position}px`,
+          }}
+        />
+        
+        {/* Obstacles */}
+        {obstacles.map(obstacle => (
+          <div
+            key={obstacle.id}
+            className="absolute w-6 h-6 bg-red-500 rounded"
+            style={{
+              left: `${obstacle.x}px`,
+              top: `${obstacle.y}px`,
+            }}
+          />
+        ))}
+
+        {/* Game Over / Start Screen */}
+        {(!isPlaying || gameOver) && (
+          <div className="absolute inset-0 bg-black/50 flex flex-col items-center justify-center">
+            <div className="text-white text-center mb-4">
+              {gameOver ? (
+                <>
+                  <h3 className="text-xl mb-2">Game Over!</h3>
+                  <p>Final Score: {score}</p>
+                </>
+              ) : (
+                <h3 className="text-xl mb-2">Click to Jump!</h3>
+              )}
+            </div>
+            <Button onClick={startGame}>
+              {gameOver ? 'Play Again' : 'Start Game'}
+            </Button>
+          </div>
+        )}
+      </div>
+    </Card>
+  );
+};
+
+export default MiniGame;
+---
+
+### 🤝 Let's Connect!
+
+<div align="center">
+  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ryunovii)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sites.google.com/view/portofolio-rizkiardi/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/TSYJ5QPWJWOOM1)
+
+</div>
+
+### 💻 Tech Stack
+
+<div align="center">
+
+#### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+#### Backend
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
+#### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+#### Programming
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+</div>
+
+### 📊 Specialization
+
+<div align="center">
+  
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-2C2D72?style=for-the-badge&logo=datacamp&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+  <h3>🌟 Portfolio Status</h3>
+  <p><i>Laravel Portfolio is currently under maintenance. Coming soon with exciting updates!</i></p>
+</div>
+
+### 📈 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+
+</div>
+
+---
+
+<div align="center">
+  <p>💡 <i>Always learning, always growing!</i></p>
+</div>
