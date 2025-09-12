@@ -53,7 +53,9 @@
 ### 📊 Specialization
 
 <div align="center">
+  
 ![Pandas](https://img.shields.io/badge/Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
 </div>
 
 ---
