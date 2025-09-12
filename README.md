@@ -58,8 +58,7 @@
 
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-2C2D72?style=for-the-badge&logo=datacamp&logoColor=white)
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Data Mining](https://img.shields.io/badge/Data%20Mining-FF6F00?style=for-the-badge&logo=rapidminer&logoColor=white)
-
+![Data Mining](https://img.shields.io/badge/Data%20Mining-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 </div>
 
 ---
