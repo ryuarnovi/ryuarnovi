@@ -30,11 +30,13 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-#### Backend
+#### Backend / Fullstack
 &nbsp;
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Wagtail](https://img.shields.io/badge/Wagtail-43B1B0?style=for-the-badge&logo=wagtail&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 #### Database
@@ -50,11 +52,13 @@
 
 ---
 
-### 📊 Specialization
+### 📊 Data Specialization
 
 <div align="center">
-  
-![Pandas](https://img.shields.io/badge/Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-2C2D72?style=for-the-badge&logo=datacamp&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Data Mining](https://img.shields.io/badge/Data%20Mining-FF6F00?style=for-the-badge&logo=rapidminer&logoColor=white)
 
 </div>
 
