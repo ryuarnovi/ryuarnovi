@@ -1,34 +1,45 @@
-<!-- Theme: Modern Interactive | Add Livewire Logo | Centered Layout | Extra Interactivity -->
+<!-- 
+Theme: Modern Interactive
+Features: Centered Layout, Interactive Dropdowns, Vibrant Theme, Livewire Logo, Enhanced Interactivity
+-->
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/livewire/docs/main/public/img/logo.svg" width="120" alt="Livewire Logo"/>
-</p>
+<div align="center" style="background: linear-gradient(120deg, #f8fafc 0%, #ede9fe 100%); border-radius: 16px; padding: 32px 16px; box-shadow: 0 2px 16px rgba(78,29,149,0.08);">
 
-<h1 align="center" style="font-family: 'Segoe UI', sans-serif;">
-  👋 Welcome to My Portfolio
-</h1>
+  <img src="https://raw.githubusercontent.com/livewire/docs/main/public/img/logo.svg" width="110" alt="Livewire Logo" style="margin-bottom: 18px;"/>
 
-<div align="center">
-  <i>Software Developer &bull; Data Analyst &bull; Full-Stack Developer</i>
-</div>
+  <h1 style="font-family: 'Segoe UI', sans-serif; font-weight: 800; color: #4E1D95;">
+    👋 Welcome to My Interactive Portfolio
+  </h1>
 
-<hr style="border: 1px solid #eee; margin: 24px 0;"/>
+  <div style="font-size: 1.15em; color: #4E1D95; margin-bottom: 4px;">
+    <i>Software Developer &bull; Data Analyst &bull; Fullstack Developer (Laravel + Livewire)</i>
+  </div>
 
-<!-- Interactive Social Section -->
-<div align="center">
+  <hr style="border: 1px solid #e5e7eb; margin: 24px 0;"/>
 
-  <a href="https://www.instagram.com/ryurizkinovii?igsh=NmtmNHhvaDNlcjNr" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://sites.google.com/view/portofolio-rizkiardi/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://wa.me/message/TSYJ5QPWJWOOM1" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-  <a href="https://laravel-livewire.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Livewire-4E1D95?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire"/>
-  </a>
+  <!-- Interactive Social Badges Section -->
+  <div>
+    <a href="https://www.instagram.com/ryurizkinovii?igsh=NmtmNHhvaDNlcjNr" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    </a>
+    <a href="https://sites.google.com/view/portofolio-rizkiardi/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    </a>
+    <a href="https://wa.me/message/TSYJ5QPWJWOOM1" target="_blank">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+    </a>
+    <a href="https://laravel-livewire.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Livewire-4E1D95?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire"/>
+    </a>
+  </div>
+
+  <br/>
+
+  <!-- Tips for interactivity -->
+  <div style="font-size: 0.95em; color: #6366f1; margin-bottom: 16px;">
+    🟢 <b>Tips:</b> Click the badges for quick links.<br/>
+    🔽 Click the dropdowns below to explore my stack!
+  </div>
 
 </div>
 
@@ -38,7 +49,7 @@
 
 <div align="center">
 
-<details>
+<details open>
   <summary>🌈 <b>Frontend</b></summary>
   <div>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -49,7 +60,7 @@
   </div>
 </details>
 
-<details>
+<details open>
   <summary>🛠️ <b>Backend / Fullstack</b></summary>
   <div>
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
@@ -92,8 +103,8 @@
 ---
 
 <div align="center">
-  <h3>🌟 Portfolio Status</h3>
-  <p><i>Laravel Portfolio is currently under maintenance.<br>Coming soon with exciting updates!</i></p>
+  <h3 style="color:#4E1D95;">🌟 Portfolio Status</h3>
+  <p><i>Laravel Portfolio is currently under maintenance.<br>Coming soon with exciting updates and fresh interactive experiences!</i></p>
 </div>
 
 ---
@@ -116,4 +127,5 @@
   - Click on the dropdowns for more info!
   - Try clicking the badges for quick links.
   - Explore the Livewire ecosystem for interactive Laravel apps!
+  - Theme: Modern Interactive with badges, gradients, and centered layout
 -->
