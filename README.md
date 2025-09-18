@@ -6,7 +6,7 @@ Features: Centered Layout, Interactive Dropdowns, Vibrant Theme, Livewire Logo, 
 <div align="center" style="background: linear-gradient(120deg, #f8fafc 0%, #ede9fe 100%);
   border-radius: 16px; padding: 32px 16px; box-shadow: 0 2px 16px rgba(78,29,149,0.08);
   transition: box-shadow 0.3s;">
-  
+
   <h1 style="font-family: 'Segoe UI', sans-serif; font-weight: 800; color: #4E1D95;">
     👋 Welcome to My Interactive Portfolio
   </h1>
@@ -45,8 +45,8 @@ Features: Centered Layout, Interactive Dropdowns, Vibrant Theme, Livewire Logo, 
       <li>✨ Klik badge untuk akses cepat ke sosial & portfolio!</li>
       <li>🔽 Klik dropdown di bawah untuk detail tech stack!</li>
       <li>🎯 Explore Livewire untuk Laravel yang <b>dynamic & powerful!</b></li>
-      <li>🚀 Scroll ke bawah untuk lihat stats & specialization!</li>
-      <li>🦾 Coba challenge: <i>Bisakah kamu temukan project favoritku di portfolio?</i></li>
+      <li>📊 Cek Data Science section untuk Data Mining & Visualisasi!</li>
+      <li>💡 Challenge: Temukan project favoritku di portfolio!</li>
     </ul>
   </div>
 </div>
@@ -90,9 +90,10 @@ Features: Centered Layout, Interactive Dropdowns, Vibrant Theme, Livewire Logo, 
 </details>
 
 <details>
-  <summary>💡 <b>Programming</b> <span style="color:#00599C;">(Algo & Logic)</span></summary>
+  <summary>💡 <b>Programming (Algo & Logic)</b> <span style="color:#00599C;">(Problem Solving)</span></summary>
   <div>
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+    <img src="https://img.shields.io/badge/Java%20NetBeans-007396?style=for-the-badge&logo=netbeans&logoColor=white" alt="Java NetBeans"/>
   </div>
 </details>
 
@@ -100,16 +101,16 @@ Features: Centered Layout, Interactive Dropdowns, Vibrant Theme, Livewire Logo, 
 
 ---
 
-## 📊 Data Specialization <span style="color:#3F4F75;">(Klik badge untuk detail)</span>
+## 📊 Data Science & Specialization <span style="color:#3F4F75;">(Klik badge untuk detail)</span>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Data%20Analysis-2C2D72?style=for-the-badge&logo=datacamp&logoColor=white" alt="Data Analysis"/>
-  <img src="https://img.shields.io/badge/Data%20Visualization-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Data Visualization"/>
   <img src="https://img.shields.io/badge/Data%20Mining-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Data Mining"/>
+  <img src="https://img.shields.io/badge/Data%20Visualization-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Data Visualization"/>
 </div>
 <br>
 <div align="center" style="font-size:1em;color:#6366f1;">
-  <b>🧠 Fun Fact:</b> Data tells stories, and I love discovering those stories!
+  <b>🔬 Data Science:</b> Temukan insight dari data yang kompleks. Dari mining hingga visualisasi, semua bisa jadi cerita!
 </div>
 
 ---
