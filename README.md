@@ -7,8 +7,6 @@ Features: Centered Layout, Interactive Dropdowns, Vibrant Theme, Livewire Logo, 
   border-radius: 16px; padding: 32px 16px; box-shadow: 0 2px 16px rgba(78,29,149,0.08);
   transition: box-shadow 0.3s;">
   
-  <img src="https://raw.githubusercontent.com/livewire/docs/main/public/img/logo.svg" width="110" alt="Livewire Logo" style="margin-bottom: 18px;"/>
-
   <h1 style="font-family: 'Segoe UI', sans-serif; font-weight: 800; color: #4E1D95;">
     👋 Welcome to My Interactive Portfolio
   </h1>
