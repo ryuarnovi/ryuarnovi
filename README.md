@@ -1,6 +1,6 @@
 <!--
-Theme: Cyberpunk Neon Gaming · Achievement System · Interactive
-Features: Working Animations, Gaming Stats, XP System, Skill Tree, Challenges, Easter Eggs
+Theme: Cyberpunk Neon Gaming · Interactive · Modern
+Features: Working Animations, Gaming Stats, XP System, Skill Tree, Clean Design
 -->
 
 <div align="center">
@@ -17,7 +17,6 @@ Features: Working Animations, Gaming Stats, XP System, Skill Tree, Challenges, E
 <img src="https://img.shields.io/badge/Status-Building_The_Future-00ff41?style=for-the-badge&logoColor=black&labelColor=0d1117"/>
 <img src="https://img.shields.io/badge/Level-85-ff00ff?style=for-the-badge&logoColor=white&labelColor=0d1117"/>
 <img src="https://img.shields.io/badge/XP-15,200-00d9ff?style=for-the-badge&logoColor=white&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Achievements-27/50-ffd700?style=for-the-badge&logoColor=white&labelColor=0d1117"/>
 
 <br/><br/>
 
@@ -47,109 +46,8 @@ Features: Working Animations, Gaming Stats, XP System, Skill Tree, Challenges, E
 |-----------|----------|-------------|
 | 💻 **Total Projects** | 47 | ![Progress](https://progress-bar.dev/94/?width=200&color=00ff41&scale=50&suffix=/50) |
 | 🔥 **Commit Streak** | 156 days | ![Progress](https://progress-bar.dev/78/?width=200&color=ff00ff&scale=200&suffix=/200) |
-| 📚 **Skills Mastered** | 22 | ![Progress](https://progress-bar.dev/88/?width=200&color=00d9ff&scale=25&suffix=/25) |
-| 🏆 **Achievements** | 27 | ![Progress](https://progress-bar.dev/54/?width=200&color=ffd700&scale=50&suffix=/50) |
+| 📚 **Skills Mastered** | 24 | ![Progress](https://progress-bar.dev/96/?width=200&color=00d9ff&scale=25&suffix=/25) |
 | ⭐ **GitHub Stars** | 85 | ![Progress](https://progress-bar.dev/85/?width=200&color=ff6b6b&scale=100&suffix=/100) |
-
-</div>
-
----
-
-## 🏆 Achievement Gallery
-
-<div align="center">
-
-### 🎖️ Unlocked Badges
-
-<table>
-<tr>
-<td align="center" width="25%">
-<br>
-🥇<br>
-<b>Code Ninja</b><br>
-<sub>1000+ commits</sub>
-</td>
-<td align="center" width="25%">
-<br>
-🎯<br>
-<b>Bug Terminator</b><br>
-<sub>Fixed 500+ bugs</sub>
-</td>
-<td align="center" width="25%">
-<br>
-🚀<br>
-<b>Laravel Master</b><br>
-<sub>15+ Laravel apps</sub>
-</td>
-<td align="center" width="25%">
-<br>
-💎<br>
-<b>Data Miner</b><br>
-<sub>10TB+ processed</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="25%">
-<br>
-⚡<br>
-<b>Livewire Wizard</b><br>
-<sub>50+ components</sub>
-</td>
-<td align="center" width="25%">
-<br>
-🌟<br>
-<b>Full Stack Hero</b><br>
-<sub>Master of both sides</sub>
-</td>
-<td align="center" width="25%">
-<br>
-🔥<br>
-<b>Streak Legend</b><br>
-<sub>156 day streak</sub>
-</td>
-<td align="center" width="25%">
-<br>
-🎨<br>
-<b>UI Designer</b><br>
-<sub>Beautiful interfaces</sub>
-</td>
-</tr>
-</table>
-
-### 🔒 Locked Challenges
-
-<table>
-<tr>
-<td align="center" width="25%">
-<br>
-🔓<br>
-<b>Open Source Hero</b><br>
-<sub>Progress: 7/10 PRs</sub><br>
-![](https://progress-bar.dev/70/?width=120&color=gray)
-</td>
-<td align="center" width="25%">
-<br>
-🔓<br>
-<b>AI Pioneer</b><br>
-<sub>Progress: 3/5 models</sub><br>
-![](https://progress-bar.dev/60/?width=120&color=gray)
-</td>
-<td align="center" width="25%">
-<br>
-🔓<br>
-<b>Code Mentor</b><br>
-<sub>Progress: 35/50 devs</sub><br>
-![](https://progress-bar.dev/70/?width=120&color=gray)
-</td>
-<td align="center" width="25%">
-<br>
-🔓<br>
-<b>API Master</b><br>
-<sub>Progress: 14/20 APIs</sub><br>
-![](https://progress-bar.dev/70/?width=120&color=gray)
-</td>
-</tr>
-</table>
 
 </div>
 
@@ -167,6 +65,7 @@ Features: Working Animations, Gaming Stats, XP System, Skill Tree, Challenges, E
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
 
 **Skill Level:** ![](https://progress-bar.dev/80/?width=400&color=00ff41&suffix=%20Master%20Level) | **XP:** 3,200 / 4,000
 
@@ -180,6 +79,7 @@ Features: Working Animations, Gaming Stats, XP System, Skill Tree, Challenges, E
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 **Skill Level:** ![](https://progress-bar.dev/90/?width=400&color=ff00ff&suffix=%20Expert%20Level) | **XP:** 4,500 / 5,000
 
@@ -215,6 +115,15 @@ Features: Working Animations, Gaming Stats, XP System, Skill Tree, Challenges, E
 
 **Skill Level:** ![](https://progress-bar.dev/85/?width=400&color=ff6b6b&suffix=%20Expert%20Level) | **XP:** 3,400 / 4,000
 
+---
+
+### 🌱 Currently Learning
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
+
+**Skill Level:** ![](https://progress-bar.dev/35/?width=400&color=00ff41&suffix=%20Newbie%20Level) | **XP:** 350 / 1,000
+
 </div>
 
 ---
@@ -249,8 +158,6 @@ echo calculateTotal($cart);
 
 **🎯 Mission:** Find the bug and DM me the fix!
 
-**🏆 Reward:** +500 XP + "Bug Hunter" Badge
-
 **💡 Hint:** Check line 7 carefully... something is missing! 👀
 
 </details>
@@ -277,9 +184,7 @@ console.log(reverseString("RizkiNovii")); // "iivoNikziR"
 
 **🎯 Difficulty:** ⭐⭐⭐ Medium
 
-**🏆 Reward:** +300 XP + "Algorithm Master" Progress (1/10)
-
-**📤 Submit:** Share your solution via DM to claim rewards!
+**📤 Submit:** Share your solution via DM!
 
 </details>
 
@@ -304,8 +209,6 @@ ORDER BY total_orders DESC;
 ```
 
 **🎯 Challenge:** Optimize this query!
-
-**🏆 Reward:** +800 XP + "Database Wizard" Badge
 
 **💡 Hint:** Think about indexes and query structure! 🚀
 
@@ -370,16 +273,16 @@ ORDER BY total_orders DESC;
 
 ### 🎯 Currently Learning
 
-- ✨ AI & Machine Learning
-  - Progress: ![](https://progress-bar.dev/65/?width=100&color=ff6b6b)
+- ✨ **Go Backend Development**
+  - Progress: ![](https://progress-bar.dev/35/?width=100&color=00ADD8)
   
-- 🚀 Rust Programming
-  - Progress: ![](https://progress-bar.dev/50/?width=100&color=00ff41)
+- 🚀 **Astro Framework**
+  - Progress: ![](https://progress-bar.dev/30/?width=100&color=FF5D01)
   
-- 📱 Mobile Development
+- 📱 **Mobile Development**
   - Progress: ![](https://progress-bar.dev/40/?width=100&color=00d9ff)
   
-- 🔐 Cybersecurity
+- 🔐 **Cybersecurity**
   - Progress: ![](https://progress-bar.dev/55/?width=100&color=ff00ff)
 
 </td>
@@ -393,55 +296,6 @@ ORDER BY total_orders DESC;
 **Status:** 🚧 Under active development & UI upgrade  
 **Next Update:** New interactive demos & coding challenges  
 **Latest Feature:** Added Livewire component gallery & game system
-
-</div>
-
----
-
-## 🔥 Weekly Challenges & Quests
-
-<div align="center">
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-### 🏆 Weekly Mission
-**Complete 10 Commits**
-
-![](https://progress-bar.dev/80/?width=150&color=00ff41)
-
-8/10 Commits
-
-**Reward:** +1000 XP
-
-</td>
-<td width="33%" align="center">
-
-### 💎 Code Review Quest
-**Review 5 Pull Requests**
-
-![](https://progress-bar.dev/60/?width=150&color=00d9ff)
-
-3/5 Reviews
-
-**Reward:** "Reviewer" Badge
-
-</td>
-<td width="33%" align="center">
-
-### ⚡ Speed Deploy
-**Deploy 3 Apps**
-
-![](https://progress-bar.dev/66/?width=150&color=ff00ff)
-
-2/3 Apps
-
-**Reward:** +2000 XP
-
-</td>
-</tr>
-</table>
 
 </div>
 
@@ -467,32 +321,6 @@ ORDER BY total_orders DESC;
 
 ---
 
-## 🎁 Special Rewards System
-
-<div align="center">
-
-### 🎯 How to Earn Rewards
-
-| Action | XP Reward | Badge |
-|--------|-----------|-------|
-| ⭐ Star this profile | +100 XP | Supporter ⭐ |
-| 🔀 Fork a project | +200 XP | Contributor 🔀 |
-| 💬 Comment on issue | +50 XP | Helper 💬 |
-| 🐛 Report a bug | +300 XP | Bug Hunter 🐛 |
-| 📝 Write documentation | +400 XP | Documenter 📝 |
-| 🎮 Complete code challenge | +500 XP | Challenger 🎮 |
-| 🤝 Collaborate on project | +1000 XP | Team Player 🤝 |
-
-### 🏅 Current Rank
-
-**Code Warrior** → Next: **Code Legend** (2,800 XP needed)
-
-![](https://progress-bar.dev/82/?title=Rank%20Progress&width=600&color=ffd700&suffix=%20to%20next%20rank)
-
-</div>
-
----
-
 ## 📞 Let's Connect & Collaborate!
 
 <div align="center">
@@ -500,7 +328,6 @@ ORDER BY total_orders DESC;
 ### 🎮 Join My Coding Journey!
 
 **🎯 Mission:** Build amazing things together!  
-**🏆 Reward:** Exclusive "Collaborator" badge + Featured on portfolio!  
 **📤 How:** DM your best project or coding story on any platform above!
 
 <br>
@@ -523,7 +350,7 @@ ORDER BY total_orders DESC;
 
 <br>
 
-**Last Updated:** October 15, 2025 | **Profile Version:** 3.0.0
+**Last Updated:** October 15, 2025 | **Profile Version:** 3.1.0
 
 </div>
 
@@ -532,13 +359,12 @@ ORDER BY total_orders DESC;
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:00d9ff,100:ff00ff&height=120&section=footer"/>
 
 <!--
-🎮 Easter Eggs & Hidden Features:
-- Look for bugs in code challenges to earn badges
-- Complete daily quests for bonus XP
-- Share solutions via DM to unlock achievements
-- Connect on all platforms for "Social Butterfly" badge
-- Star repos to earn "Supporter" achievement
-- Complete all 3 games to unlock "Master Challenger" badge
-Theme: Cyberpunk Gaming, Working Animations, Achievement System, Interactive Challenges, XP Progress
-Version: 3.0.0 | Optimized for GitHub Display
+🎮 Features:
+- Interactive code challenges
+- Real-time GitHub stats
+- Skill tree with progress bars
+- Gaming-inspired design
+- Clean and modern layout
+Theme: Cyberpunk Gaming, Working Animations, Clean Design, Interactive Challenges
+Version: 3.1.0 | Optimized for GitHub Display
 -->
