@@ -43,7 +43,7 @@ Features: Working Animations, Gaming Stats, XP System, Skill Tree, Clean Design
 <div align="center">
 
 <!-- GitHub Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RizkiNovii&theme=react-dark&hide_border=true&bg_color=0d1117&color=00ff41&line=00d9ff&point=ff00ff&area=true&area_color=00d9ff" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ryuarnovi&theme=react-dark&hide_border=true&bg_color=0d1117&color=00ff41&line=00d9ff&point=ff00ff&area=true&area_color=00d9ff" width="100%"/>
 
 <br><br>
 
