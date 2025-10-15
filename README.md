@@ -13,13 +13,6 @@ Features: Gradient Backgrounds, Glowing Effects, Working Animations, Gaming Stat
 
 <br/><br/>
 
-<!-- Gradient Background Box for Status -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RizkiNovii/RizkiNovii/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RizkiNovii/RizkiNovii/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RizkiNovii/RizkiNovii/output/github-contribution-grid-snake.svg">
-</picture>
-
 <!-- Neon Glowing Status Badges -->
 <img src="https://img.shields.io/badge/⚡_Status-Building_The_Future-00ff41?style=for-the-badge&logoColor=black&labelColor=0d1117"/>
 <img src="https://img.shields.io/badge/🎮_Level-85-ff00ff?style=for-the-badge&logoColor=white&labelColor=0d1117"/>
@@ -31,46 +24,46 @@ Features: Gradient Backgrounds, Glowing Effects, Working Animations, Gaming Stat
 <!-- Neon Border Effect -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- Social Connect Box with Gradient Background -->
-<table align="center">
+<!-- Connect With Me Section with Gradient Box -->
+<table align="center" width="100%">
 <tr>
 <td align="center" colspan="5">
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 
 </td>
 </tr>
 <tr>
-<td align="center" width="20%" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 10px; border-radius: 10px;">
-<a href="https://www.instagram.com/ryurizkinovii?igsh=NmtmNHhvaDNlcjNr">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
+<td align="center">
+
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ryurizkinovii?igsh=NmtmNHhvaDNlcjNr)
+
 </td>
-<td align="center" width="20%">
-<a href="https://sites.google.com/view/portofolio-rizkiardi/">
-<img src="https://img.shields.io/badge/Portfolio-00d9ff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-</a>
+<td align="center">
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-00d9ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sites.google.com/view/portofolio-rizkiardi/)
+
 </td>
-<td align="center" width="20%">
-<a href="https://wa.me/message/TSYJ5QPWJWOOM1">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-</a>
+<td align="center">
+
+[![WhatsApp](https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/TSYJ5QPWJWOOM1)
+
 </td>
-<td align="center" width="20%">
-<a href="mailto:your.email@example.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+<td align="center">
+
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
 </td>
-<td align="center" width="20%">
-<a href="https://laravel-livewire.com/">
-<img src="https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire"/>
-</a>
+<td align="center">
+
+[![Livewire](https://img.shields.io/badge/LIVEWIRE-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)](https://laravel-livewire.com/)
+
 </td>
 </tr>
 <tr>
 <td align="center" colspan="5">
 
-![Profile Views](https://komarev.com/ghpvc/?username=ryuarnovi&label=Profile%20Views&color=00ff41&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=RizkiNovii&label=PROFILE%20VIEWS&color=00ff41&style=for-the-badge)
 
 </td>
 </tr>
@@ -92,12 +85,12 @@ Features: Gradient Backgrounds, Glowing Effects, Working Animations, Gaming Stat
 <br>
 
 <!-- GitHub Contribution Graph with Gradient Background -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ryuarnovi&custom_title=Contribution%20Activity%20Graph&theme=react-dark&hide_border=false&border_color=00ff41&bg_color=0d1117&color=00ff41&line=00d9ff&point=ff00ff&area=true&area_color=00d9ff" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RizkiNovii&custom_title=Contribution%20Activity%20Graph&theme=react-dark&hide_border=false&border_color=00ff41&bg_color=0d1117&color=00ff41&line=00d9ff&point=ff00ff&area=true&area_color=00d9ff" width="100%"/>
 
 <br><br>
 
 <!-- Contribution Calendar Heatmap -->
-<img src="https://ghchart.rshah.org/00ff41/ryuarnovi" width="100%" alt="Github Contribution Graph"/>
+<img src="https://ghchart.rshah.org/00ff41/RizkiNovii" width="100%" alt="Github Contribution Graph"/>
 
 <br>
 
@@ -118,7 +111,7 @@ Features: Gradient Backgrounds, Glowing Effects, Working Animations, Gaming Stat
 <!-- Frontend Section with Gradient Background -->
 <table width="100%">
 <tr>
-<td align="center" colspan="7" bgcolor="#0d1117">
+<td align="center" colspan="7">
 
 ### ⚔️ Frontend Weapons
 
@@ -126,29 +119,29 @@ Features: Gradient Backgrounds, Glowing Effects, Working Animations, Gaming Stat
 </tr>
 <tr>
 <td align="center" width="14.28%">
-<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" /><br>HTML5
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" /><br><sub><b>HTML5</b></sub>
 </td>
 <td align="center" width="14.28%">
-<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" /><br>CSS3
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" /><br><sub><b>CSS3</b></sub>
 </td>
 <td align="center" width="14.28%">
-<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /><br>JavaScript
+<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /><br><sub><b>JavaScript</b></sub>
 </td>
 <td align="center" width="14.28%">
-<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /><br>React
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /><br><sub><b>React</b></sub>
 </td>
 <td align="center" width="14.28%">
-<img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" /><br>Bootstrap
+<img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" /><br><sub><b>Bootstrap</b></sub>
 </td>
 <td align="center" width="14.28%">
-<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" /><br>Tailwind
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" /><br><sub><b>Tailwind</b></sub>
 </td>
 <td align="center" width="14.28%">
-<img src="https://skillicons.dev/icons?i=astro" width="48" height="48" alt="Astro" /><br>Astro
+<img src="https://skillicons.dev/icons?i=astro" width="48" height="48" alt="Astro" /><br><sub><b>Astro</b></sub>
 </td>
 </tr>
 <tr>
-<td align="center" colspan="7" bgcolor="#0d1117">
+<td align="center" colspan="7">
 
 **Skill Level:** ![](https://progress-bar.dev/80/?width=400&color=00ff41&suffix=%20Master%20Level) | **XP:** 3,200 / 4,000
 
@@ -161,7 +154,7 @@ Features: Gradient Backgrounds, Glowing Effects, Working Animations, Gaming Stat
 <!-- Backend Section with Gradient Background -->
 <table width="100%">
 <tr>
-<td align="center" colspan="7" bgcolor="#0d1117">
+<td align="center" colspan="7">
 
 ### 🔧 Backend Powers
 
@@ -169,29 +162,29 @@ Features: Gradient Backgrounds, Glowing Effects, Working Animations, Gaming Stat
 </tr>
 <tr>
 <td align="center" width="14.28%">
-<img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" /><br>PHP
+<img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" /><br><sub><b>PHP</b></sub>
 </td>
 <td align="center" width="14.28%">
-<img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" /><br>Laravel
+<img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" /><br><sub><b>Laravel</b></sub>
 </td>
 <td align="center" width="14.28%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/livewire/livewire-original.svg" width="48" height="48" alt="Livewire" /><br>Livewire
+<img src="https://raw.githubusercontent.com/livewire/livewire/main/art/logo.svg" width="48" height="48" alt="Livewire" /><br><sub><b>Livewire</b></sub>
 </td>
 <td align="center" width="14.28%">
-<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /><br>Java
+<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /><br><sub><b>Java</b></sub>
 </td>
 <td align="center" width="14.28%">
-<img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" /><br>Django
+<img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" /><br><sub><b>Django</b></sub>
 </td>
 <td align="center" width="14.28%">
-<img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="Rust" /><br>Rust
+<img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="Rust" /><br><sub><b>Rust</b></sub>
 </td>
 <td align="center" width="14.28%">
-<img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" /><br>Go
+<img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" /><br><sub><b>Go</b></sub>
 </td>
 </tr>
 <tr>
-<td align="center" colspan="7" bgcolor="#0d1117">
+<td align="center" colspan="7">
 
 **Skill Level:** ![](https://progress-bar.dev/90/?width=400&color=ff00ff&suffix=%20Expert%20Level) | **XP:** 4,500 / 5,000
 
@@ -204,7 +197,7 @@ Features: Gradient Backgrounds, Glowing Effects, Working Animations, Gaming Stat
 <!-- Database Section -->
 <table width="100%">
 <tr>
-<td align="center" colspan="3" bgcolor="#0d1117">
+<td align="center" colspan="3">
 
 ### 🗄️ Database Magic
 
@@ -212,17 +205,17 @@ Features: Gradient Backgrounds, Glowing Effects, Working Animations, Gaming Stat
 </tr>
 <tr>
 <td align="center" width="33.33%">
-<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /><br>MySQL
+<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /><br><sub><b>MySQL</b></sub>
 </td>
 <td align="center" width="33.33%">
-<img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" /><br>SQLite
+<img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" /><br><sub><b>SQLite</b></sub>
 </td>
 <td align="center" width="33.33%">
-<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" /><br>PostgreSQL
+<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" /><br><sub><b>PostgreSQL</b></sub>
 </td>
 </tr>
 <tr>
-<td align="center" colspan="3" bgcolor="#0d1117">
+<td align="center" colspan="3">
 
 **Skill Level:** ![](https://progress-bar.dev/75/?width=400&color=00d9ff&suffix=%20Advanced%20Level) | **XP:** 2,250 / 3,000
 
@@ -235,7 +228,7 @@ Features: Gradient Backgrounds, Glowing Effects, Working Animations, Gaming Stat
 <!-- Algorithm Section -->
 <table width="100%">
 <tr>
-<td align="center" colspan="3" bgcolor="#0d1117">
+<td align="center" colspan="3">
 
 ### 🧮 Algorithm Mastery
 
@@ -243,17 +236,17 @@ Features: Gradient Backgrounds, Glowing Effects, Working Animations, Gaming Stat
 </tr>
 <tr>
 <td align="center" width="33.33%">
-<img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" /><br>C++
+<img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" /><br><sub><b>C++</b></sub>
 </td>
 <td align="center" width="33.33%">
-<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /><br>Java NetBeans
+<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /><br><sub><b>Java NetBeans</b></sub>
 </td>
 <td align="center" width="33.33%">
-<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /><br>Python
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /><br><sub><b>Python</b></sub>
 </td>
 </tr>
 <tr>
-<td align="center" colspan="3" bgcolor="#0d1117">
+<td align="center" colspan="3">
 
 **Skill Level:** ![](https://progress-bar.dev/70/?width=400&color=ffd700&suffix=%20Proficient%20Level) | **XP:** 2,100 / 3,000
 
@@ -266,7 +259,7 @@ Features: Gradient Backgrounds, Glowing Effects, Working Animations, Gaming Stat
 <!-- Data Science Section -->
 <table width="100%">
 <tr>
-<td align="center" colspan="5" bgcolor="#0d1117">
+<td align="center" colspan="5">
 
 ### 📊 Data Science Arsenal
 
@@ -274,23 +267,23 @@ Features: Gradient Backgrounds, Glowing Effects, Working Animations, Gaming Stat
 </tr>
 <tr>
 <td align="center" width="20%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="48" height="48" alt="Analysis" /><br>Data Analysis
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Analysis" /><br><sub><b>Data Analysis</b></sub>
 </td>
 <td align="center" width="20%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="Mining" /><br>Data Mining
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="Mining" /><br><sub><b>Data Mining</b></sub>
 </td>
 <td align="center" width="20%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="48" height="48" alt="Viz" /><br>Data Viz
+<img src="https://skillicons.dev/icons?i=d3" width="48" height="48" alt="Viz" /><br><sub><b>Data Viz</b></sub>
 </td>
 <td align="center" width="20%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="48" height="48" alt="Pandas" /><br>Pandas
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" /><br><sub><b>Pandas</b></sub>
 </td>
 <td align="center" width="20%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" /><br>NumPy
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" /><br><sub><b>NumPy</b></sub>
 </td>
 </tr>
 <tr>
-<td align="center" colspan="5" bgcolor="#0d1117">
+<td align="center" colspan="5">
 
 **Skill Level:** ![](https://progress-bar.dev/85/?width=400&color=ff6b6b&suffix=%20Expert%20Level) | **XP:** 3,400 / 4,000
 
@@ -303,7 +296,7 @@ Features: Gradient Backgrounds, Glowing Effects, Working Animations, Gaming Stat
 <!-- Currently Learning Section -->
 <table width="100%">
 <tr>
-<td align="center" colspan="2" bgcolor="#0d1117">
+<td align="center" colspan="2">
 
 ### 🌱 Currently Learning
 
@@ -311,14 +304,14 @@ Features: Gradient Backgrounds, Glowing Effects, Working Animations, Gaming Stat
 </tr>
 <tr>
 <td align="center" width="50%">
-<img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" /><br>Go
+<img src="https://skillicons.dev/icons?i=go" width="64" height="64" alt="Go" /><br><sub><b>Go</b></sub>
 </td>
 <td align="center" width="50%">
-<img src="https://skillicons.dev/icons?i=astro" width="48" height="48" alt="Astro" /><br>Astro
+<img src="https://skillicons.dev/icons?i=astro" width="64" height="64" alt="Astro" /><br><sub><b>Astro</b></sub>
 </td>
 </tr>
 <tr>
-<td align="center" colspan="2" bgcolor="#0d1117">
+<td align="center" colspan="2">
 
 **Skill Level:** ![](https://progress-bar.dev/35/?width=400&color=00ff41&suffix=%20Newbie%20Level) | **XP:** 350 / 1,000
 
@@ -438,25 +431,36 @@ ORDER BY total_orders DESC;
 
 <br>
 
-<a href="https://github.com/ryuarnovi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ryuarnovi&show_icons=true&theme=radical&hide_border=false&border_color=00ff41&bg_color=0d1117&title_color=00ff41&icon_color=00d9ff&text_color=c9d1d9&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuarnovi&layout=compact&theme=radical&hide_border=false&border_color=ff00ff&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=8"/>
-</a>
+<!-- Stats Cards in Table for Better Layout -->
+<table>
+<tr>
+<td width="50%">
 
-<br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=RizkiNovii&show_icons=true&theme=radical&hide_border=false&border_color=00ff41&bg_color=0d1117&title_color=00ff41&icon_color=00d9ff&text_color=c9d1d9&count_private=true" width="100%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ryuarnovi&theme=radical&hide_border=false&border=00d9ff&background=0d1117&ring=00ff41&fire=00d9ff&currStreakLabel=00ff41" width="49%"/>
+</td>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizkiNovii&layout=compact&theme=radical&hide_border=false&border_color=ff00ff&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=8" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RizkiNovii&theme=radical&hide_border=false&border=00d9ff&background=0d1117&ring=00ff41&fire=00d9ff&currStreakLabel=00ff41" width="100%"/>
 
 <br><br>
 
 <!-- GitHub Profile Summary -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryuarnovi&theme=radical" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RizkiNovii&theme=radical" width="100%"/>
 
 <br>
 
 ### 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=ryuarnovi&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=7" width="100%" alt="trophy"/>
+<img src="https://github-profile-trophy.vercel.app/?username=RizkiNovii&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=7" width="100%" alt="trophy"/>
 
 <br>
 
@@ -592,7 +596,7 @@ ORDER BY total_orders DESC;
 
 ### 📊 Visitor Counter
 
-![Visitor Count](https://profile-counter.glitch.me/ryuarnovi/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/RizkiNovii/count.svg)
 
 <br>
 
@@ -610,8 +614,10 @@ ORDER BY total_orders DESC;
 
 <!--
 🎮 Features:
+- Fixed Connect With Me section with proper table layout
+- Fixed GitHub stats section - now properly displayed
 - Gradient background on all skill sections using tables
-- Neon glowing borders and effects
+- Neon glowing borders and effects throughout
 - Interactive code challenges
 - Real-time GitHub stats with neon theme
 - Skill icons using skillicons.dev for better visuals
