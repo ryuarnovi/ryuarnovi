@@ -48,7 +48,7 @@ Features: Working Animations, Gaming Stats, XP System, Skill Tree, Clean Design
 <br><br>
 
 <!-- Contribution Calendar Heatmap -->
-<img src="https://ghchart.rshah.org/00ff41/RizkiNovii" width="100%" alt="Github Contribution Graph"/>
+<img src="https://ghchart.rshah.org/00ff41/ryuarnovi" width="100%" alt="Github Contribution Graph"/>
 
 </div>
 
@@ -235,13 +235,13 @@ ORDER BY total_orders DESC;
 <br><br>
 
 <!-- GitHub Profile Summary -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RizkiNovii&theme=radical" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryuarnovi&theme=radical" width="100%"/>
 
 <br>
 
 ### 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=RizkiNovii&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" width="100%" alt="trophy"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ryuarnovii&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" width="100%" alt="trophy"/>
 
 </div>
 
@@ -351,7 +351,7 @@ ORDER BY total_orders DESC;
 
 ### 📊 Visitor Counter
 
-![Visitor Count](https://profile-counter.glitch.me/RizkiNovii/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/ryuarnovi/count.svg)
 
 <br>
 
