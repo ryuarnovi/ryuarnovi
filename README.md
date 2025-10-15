@@ -6,10 +6,10 @@ Features: Working Animations, Gaming Stats, XP System, Skill Tree, Clean Design
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:00d9ff,100:ff00ff&height=200&section=header&text=RIZKI%20ARIANSYAH%20NOVIANTO&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Data%20Scientist%20%7C%20Code%20Warrior&descAlignY=55&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:00d9ff,100:ff00ff&height=250&section=header&text=RIZKI%20ARIANSYAH%20NOVIANTO&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20Data%20Scientist%20%7C%20Code%20Warrior&descAlignY=53&descAlign=50"/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Forge+For+Future+To+The+Next+Level%F0%9F%92%BB;WEB+Developer+%F0%9F%8E%AE;Building+Next-Gen+Web+Apps+%F0%9F%9A%80;Data+Science+Enthusiast+%F0%9F%93%8A;Laravel+%7C+Livewire+Expert+%E2%9A%A1;GO+%7C+Astro+%E2%9A%A1;React+%7C+Tailwind+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=Forge+For+Future+To+The+Next+Level+%F0%9F%92%BB;WEB+Developer+%F0%9F%8E%AE;Building+Next-Gen+Web+Apps+%F0%9F%9A%80;Data+Science+Enthusiast+%F0%9F%93%8A;Laravel+%7C+Livewire+Expert+%E2%9A%A1;GO+%7C+Astro+Learner+%E2%9A%A1;React+%7C+Tailwind+Master+%E2%9A%A1" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -33,6 +33,22 @@ Features: Working Animations, Gaming Stats, XP System, Skill Tree, Clean Design
 
 <!-- Profile Views Counter -->
 ![Profile Views](https://komarev.com/ghpvc/?username=RizkiNovii&label=Profile%20Views&color=00ff41&style=for-the-badge)
+
+</div>
+
+---
+
+## 📊 Contribution Activity Graph
+
+<div align="center">
+
+<!-- GitHub Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RizkiNovii&theme=react-dark&hide_border=true&bg_color=0d1117&color=00ff41&line=00d9ff&point=ff00ff&area=true&area_color=00d9ff" width="100%"/>
+
+<br><br>
+
+<!-- Contribution Calendar Heatmap -->
+<img src="https://ghchart.rshah.org/00ff41/RizkiNovii" width="100%" alt="Github Contribution Graph"/>
 
 </div>
 
@@ -215,6 +231,10 @@ ORDER BY total_orders DESC;
 <br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=RizkiNovii&theme=radical&hide_border=true&background=0d1117&ring=00ff41&fire=00d9ff&currStreakLabel=00ff41" width="49%"/>
+
+<br><br>
+
+<!-- GitHub Profile Summary -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RizkiNovii&theme=radical" width="100%"/>
 
 <br>
@@ -335,7 +355,7 @@ ORDER BY total_orders DESC;
 
 <br>
 
-**Last Updated:** October 15, 2025 | **Profile Version:** 3.1.0
+**Last Updated:** October 15, 2025 | **Profile Version:** 3.2.0
 
 </div>
 
@@ -347,9 +367,10 @@ ORDER BY total_orders DESC;
 🎮 Features:
 - Interactive code challenges
 - Real-time GitHub stats
+- Contribution activity graph & heatmap
 - Skill tree with progress bars
 - Gaming-inspired design
 - Clean and modern layout
 Theme: Cyberpunk Gaming, Working Animations, Clean Design, Interactive Challenges
-Version: 3.1.0 | Optimized for GitHub Display
+Version: 3.2.0 | Optimized for GitHub Display with Contribution Graphs
 -->
