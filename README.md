@@ -36,7 +36,7 @@ Features: Gradient Backgrounds, Glowing Effects, Working Animations, Gaming Stat
 <tr>
 <td align="center">
 
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ryuryuarnovi?igsh=NmtmNHhvaDNlcjNr)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ryurizkinovii?igsh=NmtmNHhvaDNlcjNr)
 
 </td>
 <td align="center">
