@@ -38,21 +38,6 @@ Features: Working Animations, Gaming Stats, XP System, Skill Tree, Clean Design
 
 ---
 
-## 🎮 Player Stats Dashboard
-
-<div align="center">
-
-| 📊 Metric | 💎 Value | 📈 Progress |
-|-----------|----------|-------------|
-| 💻 **Total Projects** | 47 | ![Progress](https://progress-bar.dev/94/?width=200&color=00ff41&scale=50&suffix=/50) |
-| 🔥 **Commit Streak** | 156 days | ![Progress](https://progress-bar.dev/78/?width=200&color=ff00ff&scale=200&suffix=/200) |
-| 📚 **Skills Mastered** | 24 | ![Progress](https://progress-bar.dev/96/?width=200&color=00d9ff&scale=25&suffix=/25) |
-| ⭐ **GitHub Stars** | 85 | ![Progress](https://progress-bar.dev/85/?width=200&color=ff6b6b&scale=100&suffix=/100) |
-
-</div>
-
----
-
 ## 🛠️ Tech Arsenal & Skill Tree
 
 <div align="center">
