@@ -14,7 +14,7 @@ Features: Gradient Backgrounds, Glowing Effects, Working Animations, Gaming Stat
 <br/><br/>
 
 <!-- Neon Glowing Status Badges -->
-<img src="https://img.shields.io/badge/⚡_Status-Building_The_Future-00ff41?style=for-the-badge&logoColor=black&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/📜_Quotes-Show_me_your_true_form!-00ff41?style=for-the-badge&logoColor=black&labelColor=0d1117"/>
 <img src="https://img.shields.io/badge/🎮_Level-85-ff00ff?style=for-the-badge&logoColor=white&labelColor=0d1117"/>
 <img src="https://img.shields.io/badge/💎_XP-15,200-00d9ff?style=for-the-badge&logoColor=white&labelColor=0d1117"/>
 <img src="https://img.shields.io/badge/🔥_Streak-156_Days-ffd700?style=for-the-badge&logoColor=white&labelColor=0d1117"/>
