@@ -51,16 +51,9 @@ Features: Gradient Backgrounds, Glowing Effects, Working Animations, Gaming Stat
 </td>
 <td align="center">
 
-[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rizki.ardiansyah.novianto123@gmail.com)
 
 </td>
-<td align="center">
-
-[![Livewire](https://img.shields.io/badge/LIVEWIRE-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)](https://laravel-livewire.com/)
-
-</td>
-</tr>
-<tr>
 <td align="center" colspan="5">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ryuarnovi&label=PROFILE%20VIEWS&color=00ff41&style=for-the-badge)
