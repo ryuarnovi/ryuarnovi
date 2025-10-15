@@ -1,27 +1,27 @@
 <!--
-Theme: Ultra Modern Neon Interactive
-Features: Centered Layout, Neon Gradient, Animated Badges, Responsive, Playful Tips, Minimalist Feel
+Theme: Neon Dark Mode · Animated · Ultra Modern
+Features: Centered, Neon Gradient, Animated Badges & Icons, Responsive, Minimalist, Playful Tips
 -->
 
 <div align="center">
 
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="neon welcome" width="90" style="margin-bottom:16px;" />
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="neon welcome" width="100" style="margin-bottom:18px;" />
 
-  <h1 style="font-family: 'Segoe UI', Verdana, sans-serif; font-weight: 900; color: #5F1D95; letter-spacing: 2px;">
-    ✨ Hi, I'm Rizki! <br> <span style="color:#00FFA3;">Modern Portfolio</span>
+  <h1 style="font-family: 'Segoe UI', Verdana, sans-serif; font-weight: 900; color: #00FFA3; letter-spacing: 2px;">
+    ⚡ Hi, I'm Rizki <br> <span style="color:#FF2D95;">Modern Portfolio</span>
   </h1>
 
-  <div style="font-size: 1.18em; color: #5F1D95; margin-bottom: 10px;">
+  <div style="font-size: 1.15em; color: #FF2D95; margin-bottom: 8px;">
     <i>
       Fullstack Developer · Data Enthusiast · Laravel & Livewire Wizard
     </i>
   </div>
 
-  <div style="font-size: 1em; color: #00FFA3; margin-bottom: 8px;">
-    🚀 Building next-gen web experiences & uncovering stories in your data!
+  <div style="font-size: 1em; color: #00FFA3;">
+    🚀 Building neon web experiences & mining data stories!
   </div>
 
-  <hr style="border: 1px solid #e5e7eb; margin: 22px 0;"/>
+  <hr style="border: 1px solid #22223b; margin: 20px 0;"/>
 
   <!-- Neon Social Badges -->
   <div>
@@ -42,17 +42,17 @@ Features: Centered Layout, Neon Gradient, Animated Badges, Responsive, Playful T
     </a>
   </div>
 
-  <br />
+  <br/>
 
-  <!-- Modern Neon Tips -->
+  <!-- Animated Tips (Neon) -->
   <details>
-    <summary style="color:#00FFA3; font-size:1.1em;"><b>🟢 Pro Tips: Klik untuk inspirasi!</b></summary>
-    <ul align="left" style="list-style: none; margin: 0; padding: 0;">
-      <li>🌟 Klik badge untuk connect & explore!</li>
-      <li>🚦 Coba dropdown stack di bawah untuk lihat skill detail!</li>
-      <li>🪄 Livewire: Laravel jadi real-time & fun!</li>
+    <summary style="color:#00FFA3; font-size:1.1em;"><b>🟢 Pro Tips: Klik untuk interaktif!</b></summary>
+    <ul style="list-style: none; margin: 0; padding: 0;">
+      <li>🌟 Klik badge sosial untuk langsung connect!</li>
+      <li>🚦 Dropdown stack di bawah untuk lihat skill detail!</li>
+      <li>🪄 Livewire: Laravel jadi real-time & fun banget!</li>
       <li>📊 Data Science: visualisasi, mining, AI-ready!</li>
-      <li>🎯 Challenge: Kirim project favoritmu via DM!</li>
+      <li>🎯 Challenge: DM project favoritmu atau pengalaman coding!</li>
     </ul>
   </details>
 
@@ -116,14 +116,14 @@ Features: Centered Layout, Neon Gradient, Animated Badges, Responsive, Playful T
 </div>
 <br>
 <div align="center" style="font-size:1em;color:#00FFA3;">
-  <b>🔬 Data Science:</b> Data mining, visualisasi, prediksi, dan AI-ready. Semua bisa jadi insight!
+  <b>🔬 Data Science:</b> Data mining, visualisasi, prediksi, AI-ready. Semua bisa jadi insight!
 </div>
 
 ---
 
 <div align="center" style="background: linear-gradient(90deg, #8F00FF 0%, #00FFA3 100%); border-radius: 12px; padding: 18px; margin: 10px 0;">
   <h3 style="color:#5F1D95;">🌟 Portfolio Status</h3>
-  <p><i>Portfolio sedang <b>maintenance & upgrade UI</b>.<br>
+  <p><i>Portfolio sedang <b>upgrade UI</b> & maintenance.<br>
   Tunggu fitur baru & demo interaktif! 🚧</i></p>
 </div>
 
@@ -144,13 +144,17 @@ Features: Centered Layout, Neon Gradient, Animated Badges, Responsive, Playful T
   <p>📣 <b>Challenge:</b> DM coding journey atau tech favoritmu!</p>
 </div>
 
+---
+
 <!--
-  🟢 Tips:
-  - Klik badge sosial untuk kontak cepat!
-  - Klik dropdown stack untuk info skill detail.
-  - Livewire = Laravel yang interaktif!
-  - Explore project & portfolio, dapatkan inspirasi!
-  - Follow atau DM untuk collab!
-  - Kirim project atau code snippet favoritmu!
-  - Theme: Ultra Modern Neon, minimalist, animated badges, neon gradient, centered layout.
+🟢 Tips:
+- Klik badge sosial untuk kontak cepat!
+- Dropdown stack untuk info skill detail.
+- Livewire = Laravel yang interaktif!
+- Explore project & portfolio, dapatkan inspirasi!
+- Follow atau DM untuk collab!
+- Kirim project atau code snippet favoritmu!
+- Theme: Neon, minimalist, animated badges, dark mode, modern.
 -->
+
+![image1](image1)
