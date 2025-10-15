@@ -6,10 +6,10 @@ Features: Working Animations, Gaming Stats, XP System, Skill Tree, Clean Design
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:00d9ff,100:ff00ff&height=200&section=header&text=RIZKI%20NOVII&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Data%20Scientist%20%7C%20Code%20Warrior&descAlignY=55&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:00d9ff,100:ff00ff&height=200&section=header&text=RIZKI%20ARIANSYAH%20NOVIANTO&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Data%20Scientist%20%7C%20Code%20Warrior&descAlignY=55&descAlign=50"/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Welcome+to+the+Code+Matrix+%F0%9F%92%BB;Level+85+Developer+%F0%9F%8E%AE;Building+Next-Gen+Web+Apps+%F0%9F%9A%80;Data+Science+Enthusiast+%F0%9F%93%8A;Laravel+%7C+Livewire+Expert+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Welcome+to+the+Code+Matrix+%F0%9F%92%BB;WEB+Developer+%F0%9F%8E%AE;Building+Next-Gen+Web+Apps+%F0%9F%9A%80;Data+Science+Enthusiast+%F0%9F%93%8A;Laravel+%7C+Livewire+Expert+%E2%9A%A1;GO+%7C+Astro+%E2%9A%A1;React+%7C+Tailwind+%E2%9A%A1" alt="Typing SVG" />
 
 <br/><br/>
 
