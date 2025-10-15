@@ -36,7 +36,7 @@ Features: Gradient Backgrounds, Glowing Effects, Working Animations, Gaming Stat
 <tr>
 <td align="center">
 
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ryurizkinovii?igsh=NmtmNHhvaDNlcjNr)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ryuryuarnovi?igsh=NmtmNHhvaDNlcjNr)
 
 </td>
 <td align="center">
@@ -63,7 +63,7 @@ Features: Gradient Backgrounds, Glowing Effects, Working Animations, Gaming Stat
 <tr>
 <td align="center" colspan="5">
 
-![Profile Views](https://komarev.com/ghpvc/?username=RizkiNovii&label=PROFILE%20VIEWS&color=00ff41&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=ryuarnovi&label=PROFILE%20VIEWS&color=00ff41&style=for-the-badge)
 
 </td>
 </tr>
@@ -85,12 +85,12 @@ Features: Gradient Backgrounds, Glowing Effects, Working Animations, Gaming Stat
 <br>
 
 <!-- GitHub Contribution Graph with Gradient Background -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RizkiNovii&custom_title=Contribution%20Activity%20Graph&theme=react-dark&hide_border=false&border_color=00ff41&bg_color=0d1117&color=00ff41&line=00d9ff&point=ff00ff&area=true&area_color=00d9ff" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ryuarnovi&custom_title=Contribution%20Activity%20Graph&theme=react-dark&hide_border=false&border_color=00ff41&bg_color=0d1117&color=00ff41&line=00d9ff&point=ff00ff&area=true&area_color=00d9ff" width="100%"/>
 
 <br><br>
 
 <!-- Contribution Calendar Heatmap -->
-<img src="https://ghchart.rshah.org/00ff41/RizkiNovii" width="100%" alt="Github Contribution Graph"/>
+<img src="https://ghchart.rshah.org/00ff41/ryuarnovi" width="100%" alt="Github Contribution Graph"/>
 
 <br>
 
@@ -380,7 +380,7 @@ function reverseString(str) {
 // Test cases:
 console.log(reverseString("hello"));     // "olleh"
 console.log(reverseString("Laravel"));   // "levaraL"
-console.log(reverseString("RizkiNovii")); // "iivoNikziR"
+console.log(reverseString("ryuarnovi")); // "iivoNikziR"
 ```
 
 **🎯 Difficulty:** ⭐⭐⭐ Medium
@@ -436,12 +436,12 @@ ORDER BY total_orders DESC;
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RizkiNovii&show_icons=true&theme=radical&hide_border=false&border_color=00ff41&bg_color=0d1117&title_color=00ff41&icon_color=00d9ff&text_color=c9d1d9&count_private=true" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ryuarnovi&show_icons=true&theme=radical&hide_border=false&border_color=00ff41&bg_color=0d1117&title_color=00ff41&icon_color=00d9ff&text_color=c9d1d9&count_private=true" width="100%"/>
 
 </td>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizkiNovii&layout=compact&theme=radical&hide_border=false&border_color=ff00ff&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=8" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuarnovi&layout=compact&theme=radical&hide_border=false&border_color=ff00ff&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=8" width="100%"/>
 
 </td>
 </tr>
@@ -449,18 +449,18 @@ ORDER BY total_orders DESC;
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RizkiNovii&theme=radical&hide_border=false&border=00d9ff&background=0d1117&ring=00ff41&fire=00d9ff&currStreakLabel=00ff41" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ryuarnovi&theme=radical&hide_border=false&border=00d9ff&background=0d1117&ring=00ff41&fire=00d9ff&currStreakLabel=00ff41" width="100%"/>
 
 <br><br>
 
 <!-- GitHub Profile Summary -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RizkiNovii&theme=radical" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryuarnovi&theme=radical" width="100%"/>
 
 <br>
 
 ### 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=RizkiNovii&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=7" width="100%" alt="trophy"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ryuarnovi&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=7" width="100%" alt="trophy"/>
 
 <br>
 
@@ -596,7 +596,7 @@ ORDER BY total_orders DESC;
 
 ### 📊 Visitor Counter
 
-![Visitor Count](https://profile-counter.glitch.me/RizkiNovii/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/ryuarnovi/count.svg)
 
 <br>
 
