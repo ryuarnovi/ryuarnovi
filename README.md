@@ -1,11 +1,11 @@
 <!--
-Theme: Cyberpunk Neon Gaming · Interactive · Glowing Effects
-Features: Neon Background, Glowing Badges, Working Animations, Gaming Stats, XP System, Skill Tree
+Theme: Cyberpunk Neon Gaming · Gradient Background · Interactive
+Features: Gradient Backgrounds, Glowing Effects, Working Animations, Gaming Stats, XP System
 -->
 
 <div align="center">
 
-<!-- Animated Neon Header -->
+<!-- Animated Neon Header with Gradient -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,10:00d9ff,30:ff00ff,50:00ff41,70:00d9ff,100:ff00ff&height=280&section=header&text=RIZKI%20ARIANSYAH%20NOVIANTO&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20Data%20Scientist%20%7C%20Code%20Warrior&descAlignY=53&descAlign=50"/>
 
 <!-- Typing Animation with Neon Glow -->
@@ -13,8 +13,15 @@ Features: Neon Background, Glowing Badges, Working Animations, Gaming Stats, XP 
 
 <br/><br/>
 
+<!-- Gradient Background Box for Status -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RizkiNovii/RizkiNovii/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RizkiNovii/RizkiNovii/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RizkiNovii/RizkiNovii/output/github-contribution-grid-snake.svg">
+</picture>
+
 <!-- Neon Glowing Status Badges -->
-<img src="https://img.shields.io/badge/⚡_Status-Building_The_Future-00ff41?style=for-the-badge&logoColor=black&labelColor=0d1117&borderColor=00ff41"/>
+<img src="https://img.shields.io/badge/⚡_Status-Building_The_Future-00ff41?style=for-the-badge&logoColor=black&labelColor=0d1117"/>
 <img src="https://img.shields.io/badge/🎮_Level-85-ff00ff?style=for-the-badge&logoColor=white&labelColor=0d1117"/>
 <img src="https://img.shields.io/badge/💎_XP-15,200-00d9ff?style=for-the-badge&logoColor=white&labelColor=0d1117"/>
 <img src="https://img.shields.io/badge/🔥_Streak-156_Days-ffd700?style=for-the-badge&logoColor=white&labelColor=0d1117"/>
@@ -24,43 +31,50 @@ Features: Neon Background, Glowing Badges, Working Animations, Gaming Stats, XP 
 <!-- Neon Border Effect -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- Social Connect with Neon Glow -->
-### 🌐 Connect With Me
-
+<!-- Social Connect Box with Gradient Background -->
 <table align="center">
 <tr>
-<td align="center" width="20%">
+<td align="center" colspan="5">
+
+### 🌐 Connect With Me
+
+</td>
+</tr>
+<tr>
+<td align="center" width="20%" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 10px; border-radius: 10px;">
 <a href="https://www.instagram.com/ryurizkinovii?igsh=NmtmNHhvaDNlcjNr">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" alt="Instagram"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 </td>
 <td align="center" width="20%">
 <a href="https://sites.google.com/view/portofolio-rizkiardi/">
-<img src="https://img.shields.io/badge/Portfolio-00d9ff?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0d1117" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/Portfolio-00d9ff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
 </td>
 <td align="center" width="20%">
 <a href="https://wa.me/message/TSYJ5QPWJWOOM1">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117" alt="WhatsApp"/>
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
 </a>
 </td>
 <td align="center" width="20%">
 <a href="mailto:your.email@example.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 </td>
 <td align="center" width="20%">
 <a href="https://laravel-livewire.com/">
-<img src="https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white&labelColor=0d1117" alt="Livewire"/>
+<img src="https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire"/>
 </a>
 </td>
 </tr>
+<tr>
+<td align="center" colspan="5">
+
+![Profile Views](https://komarev.com/ghpvc/?username=ryuarnovi&label=Profile%20Views&color=00ff41&style=for-the-badge)
+
+</td>
+</tr>
 </table>
-
-<br/>
-
-<!-- Neon Profile Views Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=ryuarnovi&label=Profile%20Views&color=00ff41&style=for-the-badge&labelColor=0d1117)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -77,8 +91,8 @@ Features: Neon Background, Glowing Badges, Working Animations, Gaming Stats, XP 
 
 <br>
 
-<!-- GitHub Contribution Graph with Neon Theme -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ryuarnovi&theme=react-dark&hide_border=false&border_color=00ff41&bg_color=0d1117&color=00ff41&line=00d9ff&point=ff00ff&area=true&area_color=00d9ff" width="100%"/>
+<!-- GitHub Contribution Graph with Gradient Background -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ryuarnovi&custom_title=Contribution%20Activity%20Graph&theme=react-dark&hide_border=false&border_color=00ff41&bg_color=0d1117&color=00ff41&line=00d9ff&point=ff00ff&area=true&area_color=00d9ff" width="100%"/>
 
 <br><br>
 
@@ -93,80 +107,226 @@ Features: Neon Background, Glowing Badges, Working Animations, Gaming Stats, XP 
 
 ---
 
-## 🛠️ Tech Arsenal & Skill Tree
-
 <div align="center">
+
+## 🛠️ Tech Arsenal & Skill Tree
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br>
 
+<!-- Frontend Section with Gradient Background -->
+<table width="100%">
+<tr>
+<td align="center" colspan="7" bgcolor="#0d1117">
+
 ### ⚔️ Frontend Weapons
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d1117)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0d1117)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0d1117)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0d1117)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=0d1117)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=0d1117)
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white&labelColor=0d1117)
+</td>
+</tr>
+<tr>
+<td align="center" width="14.28%">
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" /><br>HTML5
+</td>
+<td align="center" width="14.28%">
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" /><br>CSS3
+</td>
+<td align="center" width="14.28%">
+<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /><br>JavaScript
+</td>
+<td align="center" width="14.28%">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /><br>React
+</td>
+<td align="center" width="14.28%">
+<img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" /><br>Bootstrap
+</td>
+<td align="center" width="14.28%">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" /><br>Tailwind
+</td>
+<td align="center" width="14.28%">
+<img src="https://skillicons.dev/icons?i=astro" width="48" height="48" alt="Astro" /><br>Astro
+</td>
+</tr>
+<tr>
+<td align="center" colspan="7" bgcolor="#0d1117">
 
 **Skill Level:** ![](https://progress-bar.dev/80/?width=400&color=00ff41&suffix=%20Master%20Level) | **XP:** 3,200 / 4,000
 
+</td>
+</tr>
+</table>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- Backend Section with Gradient Background -->
+<table width="100%">
+<tr>
+<td align="center" colspan="7" bgcolor="#0d1117">
 
 ### 🔧 Backend Powers
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=0d1117)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=0d1117)
-![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white&labelColor=0d1117)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0d1117)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=0d1117)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&labelColor=0d1117)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=0d1117)
+</td>
+</tr>
+<tr>
+<td align="center" width="14.28%">
+<img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" /><br>PHP
+</td>
+<td align="center" width="14.28%">
+<img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" /><br>Laravel
+</td>
+<td align="center" width="14.28%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/livewire/livewire-original.svg" width="48" height="48" alt="Livewire" /><br>Livewire
+</td>
+<td align="center" width="14.28%">
+<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /><br>Java
+</td>
+<td align="center" width="14.28%">
+<img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" /><br>Django
+</td>
+<td align="center" width="14.28%">
+<img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="Rust" /><br>Rust
+</td>
+<td align="center" width="14.28%">
+<img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" /><br>Go
+</td>
+</tr>
+<tr>
+<td align="center" colspan="7" bgcolor="#0d1117">
 
 **Skill Level:** ![](https://progress-bar.dev/90/?width=400&color=ff00ff&suffix=%20Expert%20Level) | **XP:** 4,500 / 5,000
 
+</td>
+</tr>
+</table>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- Database Section -->
+<table width="100%">
+<tr>
+<td align="center" colspan="3" bgcolor="#0d1117">
 
 ### 🗄️ Database Magic
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0d1117)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=0d1117)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0d1117)
+</td>
+</tr>
+<tr>
+<td align="center" width="33.33%">
+<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /><br>MySQL
+</td>
+<td align="center" width="33.33%">
+<img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" /><br>SQLite
+</td>
+<td align="center" width="33.33%">
+<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" /><br>PostgreSQL
+</td>
+</tr>
+<tr>
+<td align="center" colspan="3" bgcolor="#0d1117">
 
 **Skill Level:** ![](https://progress-bar.dev/75/?width=400&color=00d9ff&suffix=%20Advanced%20Level) | **XP:** 2,250 / 3,000
 
+</td>
+</tr>
+</table>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- Algorithm Section -->
+<table width="100%">
+<tr>
+<td align="center" colspan="3" bgcolor="#0d1117">
 
 ### 🧮 Algorithm Mastery
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=0d1117)
-![Java](https://img.shields.io/badge/Java_NetBeans-ED8B00?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white&labelColor=0d1117)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117)
+</td>
+</tr>
+<tr>
+<td align="center" width="33.33%">
+<img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" /><br>C++
+</td>
+<td align="center" width="33.33%">
+<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /><br>Java NetBeans
+</td>
+<td align="center" width="33.33%">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /><br>Python
+</td>
+</tr>
+<tr>
+<td align="center" colspan="3" bgcolor="#0d1117">
 
 **Skill Level:** ![](https://progress-bar.dev/70/?width=400&color=ffd700&suffix=%20Proficient%20Level) | **XP:** 2,100 / 3,000
 
+</td>
+</tr>
+</table>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- Data Science Section -->
+<table width="100%">
+<tr>
+<td align="center" colspan="5" bgcolor="#0d1117">
 
 ### 📊 Data Science Arsenal
 
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-FFA116?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=0d1117)
-![Data Mining](https://img.shields.io/badge/Data_Mining-FF6F00?style=for-the-badge&logo=databricks&logoColor=white&labelColor=0d1117)
-![Data Visualization](https://img.shields.io/badge/Data_Viz-E97627?style=for-the-badge&logo=plotly&logoColor=white&labelColor=0d1117)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0d1117)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0d1117)
+</td>
+</tr>
+<tr>
+<td align="center" width="20%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="48" height="48" alt="Analysis" /><br>Data Analysis
+</td>
+<td align="center" width="20%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="Mining" /><br>Data Mining
+</td>
+<td align="center" width="20%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="48" height="48" alt="Viz" /><br>Data Viz
+</td>
+<td align="center" width="20%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="48" height="48" alt="Pandas" /><br>Pandas
+</td>
+<td align="center" width="20%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" /><br>NumPy
+</td>
+</tr>
+<tr>
+<td align="center" colspan="5" bgcolor="#0d1117">
 
 **Skill Level:** ![](https://progress-bar.dev/85/?width=400&color=ff6b6b&suffix=%20Expert%20Level) | **XP:** 3,400 / 4,000
 
+</td>
+</tr>
+</table>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- Currently Learning Section -->
+<table width="100%">
+<tr>
+<td align="center" colspan="2" bgcolor="#0d1117">
 
 ### 🌱 Currently Learning
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=0d1117)
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white&labelColor=0d1117)
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" /><br>Go
+</td>
+<td align="center" width="50%">
+<img src="https://skillicons.dev/icons?i=astro" width="48" height="48" alt="Astro" /><br>Astro
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2" bgcolor="#0d1117">
 
 **Skill Level:** ![](https://progress-bar.dev/35/?width=400&color=00ff41&suffix=%20Newbie%20Level) | **XP:** 350 / 1,000
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
@@ -436,7 +596,7 @@ ORDER BY total_orders DESC;
 
 <br>
 
-**Last Updated:** October 15, 2025 | **Profile Version:** 3.3.0 NEON
+**Last Updated:** 2025-10-15 | **Profile Version:** 4.0.0 NEON
 
 <br>
 
@@ -450,13 +610,13 @@ ORDER BY total_orders DESC;
 
 <!--
 🎮 Features:
+- Gradient background on all skill sections using tables
 - Neon glowing borders and effects
 - Interactive code challenges
 - Real-time GitHub stats with neon theme
-- Contribution activity graph & heatmap
-- Skill tree with progress bars
-- Gaming-inspired design with neon aesthetics
+- Skill icons using skillicons.dev for better visuals
+- Gaming-inspired design with gradient aesthetics
 - Clean and modern layout with cyberpunk vibes
-Theme: Cyberpunk Neon Gaming, Glowing Animations, Neon Borders, Interactive Challenges
-Version: 3.3.0 NEON | Optimized for GitHub Display with Full Neon Effects
+Theme: Cyberpunk Neon Gaming, Gradient Backgrounds, Glowing Animations, Interactive Challenges
+Version: 4.0.0 NEON | Optimized for GitHub Display with Full Gradient Effects
 -->
