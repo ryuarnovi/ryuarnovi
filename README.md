@@ -439,19 +439,19 @@ ORDER BY total_orders DESC;
 <img src="https://github-readme-stats.vercel.app/api?username=ryuarnovi&show_icons=true&theme=radical&hide_border=false&border_color=00ff41&bg_color=0d1117&title_color=00ff41&icon_color=00d9ff&text_color=c9d1d9&count_private=true" width="100%"/>
 
 </td>
-<td width="50%">
+<!-- <td width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuarnovi&layout=compact&theme=radical&hide_border=false&border_color=ff00ff&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=8" width="100%"/>
 
-</td>
+</td> -->
 </tr>
 </table>
 
-<br>
+<!-- <br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryuarnovi&theme=radical&hide_border=false&border=00d9ff&background=0d1117&ring=00ff41&fire=00d9ff&currStreakLabel=00ff41" width="100%"/>
 
-<br><br>
+<br><br> -->
 
 <!-- GitHub Profile Summary -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryuarnovi&theme=radical" width="100%"/>
