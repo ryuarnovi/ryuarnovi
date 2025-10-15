@@ -1,23 +1,29 @@
-<!-- 
-Theme: Modern Interactive
-Features: Centered Layout, Interactive Dropdowns, Vibrant Theme, Livewire Logo, Enhanced Interactivity, Fun Tips
+<!--
+Theme: Ultra Modern Interactive
+Features: Centered Layout, Vibrant Gradients, Animated Badges, Interactive Dropdowns, Livewire Highlight, Playful Tips, Responsive Design
 -->
 
-<div align="center" style="background: linear-gradient(120deg, #f8fafc 0%, #ede9fe 100%);
-  border-radius: 16px; padding: 32px 16px; box-shadow: 0 2px 16px rgba(78,29,149,0.08);
-  transition: box-shadow 0.3s;">
+<div align="center">
 
-  <h1 style="font-family: 'Segoe UI', sans-serif; font-weight: 800; color: #4E1D95;">
-    👋 Welcome to My Interactive Portfolio
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="wave" width="80" style="margin-bottom:16px;"/>
+
+  <h1 style="font-family: 'Segoe UI', Verdana, sans-serif; font-weight: 900; color: #4E1D95; letter-spacing: 2px;">
+    🚀 Hi, I'm Rizki! Welcome to My Modern Portfolio
   </h1>
 
-  <div style="font-size: 1.15em; color: #4E1D95; margin-bottom: 4px;">
-    <i>Software Developer &bull; Data Analyst &bull; Fullstack Developer (Laravel + Livewire)</i>
+  <div style="font-size: 1.18em; color: #4E1D95; margin-bottom: 6px;">
+    <i>
+      Fullstack Developer · Data Analyst · Laravel + Livewire Enthusiast
+    </i>
   </div>
 
-  <hr style="border: 1px solid #e5e7eb; margin: 24px 0;"/>
+  <div style="font-size: 1em; color: #6366f1;">
+    <span>🌈 Building interactive web experiences & mining data for insights!</span>
+  </div>
 
-  <!-- Interactive Social Badges Section -->
+  <hr style="border: 1px solid #e5e7eb; margin: 22px 0;"/>
+
+  <!-- Social Badges -->
   <div>
     <a href="https://www.instagram.com/ryurizkinovii?igsh=NmtmNHhvaDNlcjNr" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
@@ -38,16 +44,18 @@ Features: Centered Layout, Interactive Dropdowns, Vibrant Theme, Livewire Logo, 
 
   <br/>
 
-  <!-- Tips for interactivity -->
-  <div style="font-size: 1em; color: #6366f1; margin-bottom: 16px;">
-    <b>🟢 Tips Interaktif:</b>
-    <ul align="left" style="list-style: none; margin: 0; padding: 0;">
-      <li>✨ Klik badge untuk akses cepat ke sosial & portfolio!</li>
-      <li>🔽 Klik dropdown di bawah untuk detail tech stack!</li>
-      <li>🎯 Explore Livewire untuk Laravel yang <b>dynamic & powerful!</b></li>
-      <li>📊 Cek Data Science section untuk Data Mining & Visualisasi!</li>
-      <li>💡 Challenge: Temukan project favoritku di portfolio!</li>
-    </ul>
+  <!-- Modern Interactive Tips -->
+  <div style="font-size: 1em; color: #6366f1; margin-bottom: 18px;">
+    <details>
+      <summary><b>🟢 Pro Tips: Klik untuk interaktif!</b></summary>
+      <ul align="left" style="list-style: none; margin: 0; padding: 0;">
+        <li>✨ Klik badge sosial untuk akses cepat & connect!</li>
+        <li>🔽 Gunakan dropdown di bawah untuk eksplor tech stack lebih dalam!</li>
+        <li>🎯 Coba Livewire untuk Laravel yang <b>dynamic & real-time!</b></li>
+        <li>📊 Jelajahi Data Science section: data mining, visualisasi, dan insight!</li>
+        <li>💡 Challenge: Temukan project favoritku di portfolio!</li>
+      </ul>
+    </details>
   </div>
 </div>
 
@@ -57,7 +65,7 @@ Features: Centered Layout, Interactive Dropdowns, Vibrant Theme, Livewire Logo, 
 
 <div align="center">
 
-<details open>
+<details>
   <summary>🌈 <b>Frontend</b> <span style="color:#6366f1;">(UI/UX & Animasi)</span></summary>
   <div>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -68,7 +76,7 @@ Features: Centered Layout, Interactive Dropdowns, Vibrant Theme, Livewire Logo, 
   </div>
 </details>
 
-<details open>
+<details>
   <summary>🛠️ <b>Backend / Fullstack</b> <span style="color:#FF2D20;">(Power & Logic)</span></summary>
   <div>
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
@@ -147,5 +155,5 @@ Features: Centered Layout, Interactive Dropdowns, Vibrant Theme, Livewire Logo, 
   - Explore project & portfolio, siapa tahu dapat inspirasi!
   - Jika suka, follow atau DM saya untuk collab!
   - Challenge: Kirim project atau code snippet favorit kamu!
-  - Theme: Modern Interactive, vibrant gradient, badges, and centered layout.
+  - Theme: Ultra Modern Interactive, playful gradients, animated badges, and centered layout.
 -->
