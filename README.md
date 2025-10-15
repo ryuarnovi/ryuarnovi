@@ -1,24 +1,27 @@
 <!--
-Theme: Neon Dark Mode · Animated · Ultra Modern
-Features: Centered, Neon Gradient, Animated Badges & Icons, Responsive, Minimalist, Playful Tips
+Theme: Neon Arcade · Gamified · Animated · Achievement System
+Features: Centered, Neon Gradient, Animated Badges, Game Progress, Achievements, Leaderboard, Playful Tips
 -->
 
 <div align="center">
 
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="neon welcome" width="100" style="margin-bottom:18px;" />
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="neon welcome" width="120" style="margin-bottom:18px;" />
 
-  <h1 style="font-family: 'Segoe UI', Verdana, sans-serif; font-weight: 900; color: #00FFA3; letter-spacing: 2px;">
-    ⚡ Hi, I'm Rizki <br> <span style="color:#FF2D95;">Modern Portfolio</span>
+  <h1 style="font-family: 'Orbitron', 'Segoe UI', Verdana, sans-serif; font-weight:900; color: #00FFA3; letter-spacing:3px;">
+    🎮 Rizki's Neon Arcade Portfolio
   </h1>
 
-  <div style="font-size: 1.15em; color: #FF2D95; margin-bottom: 8px;">
+  <div style="font-size: 1.2em; color: #FF2D95; margin-bottom: 12px;">
     <i>
-      Fullstack Developer · Data Enthusiast · Laravel & Livewire Wizard
+      Fullstack Dev • Data Scientist • Laravel Livewire Game Master
     </i>
   </div>
 
-  <div style="font-size: 1em; color: #00FFA3;">
-    🚀 Building neon web experiences & mining data stories!
+  <img src="https://media.giphy.com/media/QMkPpxPDYY0fu/giphy.gif" alt="arcade animation" width="90"/>
+
+  <div style="font-size: 1em; color: #00FFA3; margin-bottom: 12px;">
+    <b>Level up your web journey! 🚀<br/>
+    Explore, unlock, and collect achievements.</b>
   </div>
 
   <hr style="border: 1px solid #22223b; margin: 20px 0;"/>
@@ -44,18 +47,57 @@ Features: Centered, Neon Gradient, Animated Badges & Icons, Responsive, Minimali
 
   <br/>
 
-  <!-- Animated Tips (Neon) -->
+  <!-- Neon Game Tips -->
   <details>
-    <summary style="color:#00FFA3; font-size:1.1em;"><b>🟢 Pro Tips: Klik untuk interaktif!</b></summary>
+    <summary style="color:#00FFA3; font-size:1.15em;"><b>🕹️ How to play: Klik untuk tips!</b></summary>
     <ul style="list-style: none; margin: 0; padding: 0;">
-      <li>🌟 Klik badge sosial untuk langsung connect!</li>
-      <li>🚦 Dropdown stack di bawah untuk lihat skill detail!</li>
-      <li>🪄 Livewire: Laravel jadi real-time & fun banget!</li>
-      <li>📊 Data Science: visualisasi, mining, AI-ready!</li>
-      <li>🎯 Challenge: DM project favoritmu atau pengalaman coding!</li>
+      <li>🎮 Klik badge sosial untuk unlock networking XP!</li>
+      <li>🌟 Jelajahi Tech Stack & Data Science untuk naik level devmu!</li>
+      <li>🏆 Temukan achievement rahasia di portfolio!</li>
+      <li>🪄 Coba Livewire. Laravel jadi lebih <b>interactive & fun!</b></li>
+      <li>👾 Kirim project atau coding story, dapatkan badge spesial!</li>
     </ul>
   </details>
 
+  <br/>
+
+  <!-- Gamified Progress Bar -->
+  <div align="center">
+    <img src="https://progress-bar.dev/75/?title=Portfolio%20Completion&color=00FFA3&width=300" alt="Portfolio Progress"/>
+    <br>
+    <img src="https://progress-bar.dev/85/?title=Dev%20Skill%20Level&color=FF2D95&width=300" alt="Skill Progress"/>
+  </div>
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/React%20Mastery-00B3FF?style=for-the-badge&logo=react&logoColor=black" alt="React Mastery"/>
+  <img src="https://img.shields.io/badge/Data%20Mining%20Hero-FF914D?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Data Mining Hero"/>
+  <img src="https://img.shields.io/badge/Laravel%20Livewire%20Champion-5F1D95?style=for-the-badge&logo=laravel&logoColor=white" alt="Livewire Champion"/>
+  <img src="https://img.shields.io/badge/Portfolio%20Explorer-0099FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Explorer"/>
+  <img src="https://img.shields.io/badge/Collab%20Unlocked-00FFA3?style=for-the-badge&logo=github&logoColor=white" alt="Collab Unlocked"/>
+  <br>
+  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="70" alt="Achievement unlocked"/>
+</div>
+
+---
+
+## 🎲 Arcade Mini-Game
+
+<div align="center" style="margin-bottom: 20px;">
+  <details>
+    <summary style="font-size:1.15em;color:#FF2D95;"><b>👾 Click to play: Code Memory Challenge</b></summary>
+    <ul style="list-style:none;margin:0;padding:0;">
+      <li>💡 Tebak hasil kode sederhana di bawah ini!</li>
+      <li>function mystery(x) { return x * 2 + 1 }</li>
+      <li>Berapa hasil <b>mystery(7)</b>? DM jawabanmu untuk unlock badge!</li>
+    </ul>
+  </details>
 </div>
 
 ---
@@ -116,45 +158,40 @@ Features: Centered, Neon Gradient, Animated Badges & Icons, Responsive, Minimali
 </div>
 <br>
 <div align="center" style="font-size:1em;color:#00FFA3;">
-  <b>🔬 Data Science:</b> Data mining, visualisasi, prediksi, AI-ready. Semua bisa jadi insight!
+  <b>🔬 Data Science:</b> Data mining, visualisasi, AI & prediksi. Unlock insight and get your badge!
 </div>
 
 ---
 
-<div align="center" style="background: linear-gradient(90deg, #8F00FF 0%, #00FFA3 100%); border-radius: 12px; padding: 18px; margin: 10px 0;">
-  <h3 style="color:#5F1D95;">🌟 Portfolio Status</h3>
-  <p><i>Portfolio sedang <b>upgrade UI</b> & maintenance.<br>
-  Tunggu fitur baru & demo interaktif! 🚧</i></p>
+<div align="center" style="background: linear-gradient(90deg, #8F00FF 0%, #00FFA3 100%); border-radius: 12px; padding: 20px; margin: 12px 0;">
+  <h3 style="color:#FF2D95;">🌟 Portfolio Status</h3>
+  <p><i>UI & Feature update in progress.<br>
+  Unlock new demos and interactive challenges soon! 🚧</i></p>
 </div>
 
 ---
 
-## 📈 GitHub Stats <span style="color:#FF2D95;">(Real Time)</span>
+## 🏅 Leaderboard & Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ryuarnovi&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuarnovi&layout=compact&theme=radical" alt="Top Languages"/>
-</div>
-
----
-
-<div align="center" style="margin-bottom:16px;">
-  <p style="font-size:1.1em;color:#00FFA3;">💡 <i>Selalu belajar, selalu berkembang!</i></p>
-  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="80" alt="keep learning gif"/>
-  <p>📣 <b>Challenge:</b> DM coding journey atau tech favoritmu!</p>
+  <br>
+  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="70" alt="keep learning gif"/>
+  <p style="font-size:1.1em;color:#00FFA3;">💡 <i>Always leveling up, always growing!</i></p>
+  <p>📣 <b>Arcade Challenge:</b> DM your coding journey or project to climb the leaderboard!</p>
 </div>
 
 ---
 
 <!--
 🟢 Tips:
-- Klik badge sosial untuk kontak cepat!
-- Dropdown stack untuk info skill detail.
-- Livewire = Laravel yang interaktif!
-- Explore project & portfolio, dapatkan inspirasi!
-- Follow atau DM untuk collab!
-- Kirim project atau code snippet favoritmu!
-- Theme: Neon, minimalist, animated badges, dark mode, modern.
+- Klik badge sosial untuk networking XP!
+- Jelajahi dropdown stack dan data science, unlock skill dan badge.
+- Temukan achievement rahasia di portfolio!
+- Mainkan mini-game di atas untuk dapat badge!
+- Kirim project/code snippet favoritmu, naik leaderboard!
+- Theme: Neon Arcade, animated, gamified, achievements, leaderboard, playful, interactive.
 -->
 
 ![image1](image1)
