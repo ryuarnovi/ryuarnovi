@@ -56,7 +56,7 @@ Features: Gradient Backgrounds, Glowing Effects, Working Animations, Gaming Stat
 </td>
 <td align="center" colspan="5">
 
-![Profile Views](https://komarev.com/ghpvc/?username=ryuarnovi&label=PROFILE%20VIEWS&color=00ff41&style=for-the-badge)
+![Profile Views](https://ryugi.vercel.app/ghpvc/?username=ryuarnovi&label=PROFILE%20VIEWS&color=00ff41&style=for-the-badge)
 
 </td>
 </tr>
