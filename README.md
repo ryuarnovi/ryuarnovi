@@ -41,7 +41,7 @@ Features: Gradient Backgrounds, Glowing Effects, Working Animations, Gaming Stat
 </td>
 <td align="center">
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-00d9ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sites.google.com/view/portofolio-rizkiardi/)
+[![Sites](https://img.shields.io/badge/PORTFOLIO-00d9ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sites.google.com/view/portofolio-rizkiardi/)
 
 </td>
 <td align="center">
@@ -54,9 +54,9 @@ Features: Gradient Backgrounds, Glowing Effects, Working Animations, Gaming Stat
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rizki.ardiansyah.novianto123@gmail.com)
 
 </td>
-<td align="center" colspan="5">
+<td align="center">
 
-![Profile Views](https://ryugi.vercel.app/ghpvc/?username=ryuarnovi&label=PROFILE%20VIEWS&color=00ff41&style=for-the-badge)
+[![Portofolio](https://img.shields.io/badge/PORTFOLIO-00d9ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ryugi.vercel.app)
 
 </td>
 </tr>
