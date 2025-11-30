@@ -56,7 +56,7 @@ Features: Gradient Backgrounds, Glowing Effects, Working Animations, Gaming Stat
 </td>
 <td align="center">
 
-[![Portofolio](https://img.shields.io/badge/PORTFOLIO-00d9ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ryugi.vercel.app)
+[![Portofolio](https://img.shields.io/badge/PORTFOLIO-01d9ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ryugi.vercel.app)
 
 </td>
 </tr>
