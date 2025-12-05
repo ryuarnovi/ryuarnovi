@@ -41,7 +41,7 @@ Features: Gradient Backgrounds, Glowing Effects, Working Animations, Gaming Stat
 </td>
 <td align="center">
 
-[![Sites](https://img.shields.io/badge/PORTFOLIO-00d9ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sites.google.com/view/portofolio-rizkiardi/)
+[![Sites](https://img.shields.io/badge/Sites-Google-00d9ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sites.google.com/view/portofolio-rizkiardi/)
 
 </td>
 <td align="center">
