@@ -5,12 +5,12 @@ AESTHETIC: ARKNIGHTS ENDFIELD // DARK ELEGANT / CENTERED / MINIMALIST
 
 <div align="center">
 
-<!-- ================== HEADER ================== -->
+<!-- HEADER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=232955,5C6BF2,497BB8,202530&height=160&section=header&text=ENDFIELD%20FUTURISTIC%20LOGIC&fontSize=34&fontAlign=50&fontColor=F8F8F9"/>
 
 <p>
   <b style="font-size:1.3em;letter-spacing:1px;color:#5C6BF2;">
-    by RIZKI NOVIANTO &nbsp; • &nbsp; BACKEND ENGINEER
+    by RIZKI NOVIANTO • BACKEND ENGINEER
   </b>
 </p>
 <p>
@@ -24,11 +24,12 @@ AESTHETIC: ARKNIGHTS ENDFIELD // DARK ELEGANT / CENTERED / MINIMALIST
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=1000&color=5C6BF2&center=true&vCenter=true&width=540&lines=%3E+LOADING+ENDFIELD+MODULES...;%3E+OPTIMIZING+FUTURE+LOGIC;%3E+SKYNET+STABLE+;%3E+SYSTEM+ONLINE..." alt="Typing SVG"/>
 
-<!-- ============= PROFILE CARD =============== -->
+<!-- SYSTEM CORE CARD (SVG LOGO for universal compatibility, not icons8!) -->
 <table align="center" width="540px" style="margin-top:15px;">
 <tr>
-  <td align="center" width="125" style="border-right:2px solid #5C6BF2;">
-    <img src="https://img.icons8.com/external-others-inmotus-design/100/5C6BF2/external-Circuit-technology-others-inmotus-design.png" width="48"/><br/>
+  <td align="center" width="110" style="border-right:2px solid #5C6BF2;">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microchip.svg" width="35" height="35" alt="SYSTEM CORE" style="filter:invert(26%) sepia(61%) saturate(973%) hue-rotate(215deg) brightness(95%) contrast(97%);margin-bottom:6px" />
+    <br/>
     <b style="font-family:'JetBrains Mono',monospace;color:#5C6BF2;">SYSTEM<br>CORE</b>
   </td>
   <td align="left" style="padding-left:18px;padding-top:10px;">
@@ -64,7 +65,7 @@ AESTHETIC: ARKNIGHTS ENDFIELD // DARK ELEGANT / CENTERED / MINIMALIST
 
 <h2>🚀 ENDFIELD CORE STACK</h2>
 
-<!-- BACKEND LOGIC: use full keys for all logos! -->
+<!-- BACKEND LOGIC: logo pasti tampil -->
 <b>🏁 BACKEND ENGINE & LOGIC</b>
 <p style="margin: 3px 0 2px 0;">Membangun sistem masa depan, performa tinggi & skalabilitas.</p>
 <p>
@@ -80,8 +81,12 @@ AESTHETIC: ARKNIGHTS ENDFIELD // DARK ELEGANT / CENTERED / MINIMALIST
 <b>📊 DATA SCIENCE & INTELLIGENCE</b>
 <p style="margin: 3px 0 2px 0;">Data-driven algorithms for strategic decision.</p>
 <p>
-  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,tensorflow&perline=4&theme=light" />
-  <img src="https://img.shields.io/badge/d3.js-%23f9a03c?style=for-the-badge&logo=d3.js&logoColor=white" height="28" />
+  <!-- Python, numpy, pandas => skillicons supported -->
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas&theme=light" height="35" />
+  <!-- Tensorflow badge for logo clarity -->
+  <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="30"/>
+  <!-- D3.js badge for logo clarity -->
+  <img src="https://img.shields.io/badge/d3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white" height="30"/>
 </p>
 
 </div>
@@ -108,7 +113,6 @@ AESTHETIC: ARKNIGHTS ENDFIELD // DARK ELEGANT / CENTERED / MINIMALIST
 ---
 
 <div align="center">
-
 <h2>📡 SYSTEM DEPLOYMENT LOG</h2>
 </div>
 
