@@ -1,107 +1,105 @@
+<!--
+PROTOCOL: ENDFIELD OPERATOR PROFILE
+THEME: INDUSTRIAL SCI-FI / MINIMALIST
+SUPPORT: DARK & LIGHT MODE OPTIMIZED
+-->
+
 <div align="center">
 
-<!-- HEADER: ENDFIELD TECHNICAL INTERFACE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=1a1a1a&height=220&section=header&text=%E2%96%B6%20ENDFIELD%20INDUSTRIES&fontSize=35&fontColor=F39C12&desc=OPERATOR%20DATA%20READOUT%20//%20RIZKI%20ARIANSYAH&descAlignY=65&descAlign=50&animation=twinkling"/>
+<!-- HEADER: DYNAMIC INTERFACE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=1a1a1a&height=180&section=header&text=%E2%96%B6%20ENDFIELD%20DEVELOPER%20READOUT&fontSize=32&fontColor=F39C12&desc=IDENT:%20RIZKI%20ARIANSYAH%20NOVIANTO%20//%20ST-1203&descAlignY=65&descAlign=50"/>
 
-<!-- OPERATOR STATUS BAR -->
+<br/>
+
+<!-- STATUS BAR: MINIMALIST -->
 <p align="center">
-  <code><b>STATUS:</b> <span style="color: #2ecc71">ONLINE</span></code> &nbsp;&nbsp; 
-  <code><b>CONNECTION:</b> <span style="color: #3498db">STABLE</span></code> &nbsp;&nbsp; 
-  <code><b>CLEARANCE:</b> <span style="color: #f1c40f">LEVEL 4</span></code>
+  <code><b>OPERATOR:</b> ACTIVE</code> &nbsp; | &nbsp; 
+  <code><b>CLEARANCE:</b> LEVEL-4</code> &nbsp; | &nbsp; 
+  <code><b>SYNC:</b> 100%</code>
 </p>
 
-<!-- TYPING LOG -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=%5BPRTS%5D%3A+Initializing+Code+Warrior+Module...;%3E+Fullstack+Operator+Selected;%3E+Data+Science+Synchronization+99%25;%3E+Forge+For+Future+Next+Level..." alt="Typing SVG" />
+<!-- TYPING LOG: TECHNICAL -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3500&pause=1000&color=F39C12&center=true&vCenter=true&width=600&lines=%3E+INITIALIZING+PRTS+CORE...;%3E+SYNCHRONIZING+FULLSTACK+MODULES;%3E+DATA+SCIENCE+ALGORITHMS+READY;%3E+FORGE+FOR+FUTURE+NEXT+LEVEL..." alt="Typing SVG" />
 
 <br/>
 
-<!-- OPERATOR INFO TABLE -->
-<table width="100%">
+<!-- OPERATOR DOSSIER TABLE -->
+<table align="center" width="100%" style="border-collapse: collapse;">
 <tr>
-<td align="center" width="30%">
-<img src="https://img.icons8.com/ios-filled/100/F39C12/rhombus.png" width="80"/><br/>
-<b>CLASS:</b><br/><code>ELITE DEVELOPER</code>
+<td align="center" width="25%" style="border-right: 2px solid #F39C12;">
+  <img src="https://img.icons8.com/ios-filled/100/F39C12/hexagonal-dice.png" width="70"/><br/>
+  <code><b>DEPT-LOGIC</b></code>
 </td>
-<td align="left">
-<h3>📁 Operator Dossier</h3>
-<ul>
-  <li><b>Codename:</b> <code>ryuarnovi</code></li>
-  <li><b>Specialty:</b> High-Precision System Architecture</li>
-  <li><b>Combat Type:</b> Fullstack (Melee/Ranged)</li>
-  <li><b>Affiliation:</b> Endfield Technical Division</li>
-</ul>
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- TACTICAL CHANNELS (CONNECT) -->
-<h3 align="center">📡 Encrypted Channels</h3>
-<div align="center">
-  <a href="https://wa.me/message/TSYJ5QPWJWOOM1"><img src="https://img.shields.io/badge/COMMS-WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-  <a href="https://www.instagram.com/ryurizkinovii"><img src="https://img.shields.io/badge/INTEL-INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:rizki.ardiansyah.novianto123@gmail.com"><img src="https://img.shields.io/badge/SIGNAL-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://ryugi.vercel.app"><img src="https://img.shields.io/badge/BASE-PORTFOLIO-1a1a1a?style=for-the-badge&logo=google-chrome&logoColor=F39C12"/></a>
-</div>
-
-<br/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-</div>
-
----
-
-## 🛠️ Combat Skill Modules (Tech Stack)
-
-### ⚔️ Primary Weapons (Frontend)
-`[HTML5]` `[CSS3]` `[JS/TS]` `[REACT]` `[ASTRO]` `[TAILWIND]`
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,astro,tailwind&theme=dark" />
-
-### 🔋 Power Core (Backend)
-`[LARAVEL]` `[GO]` `[RUST]` `[PYTHON]` `[DJANGO]` `[JAVA]`
-<img src="https://skillicons.dev/icons?i=laravel,php,go,rust,py,django,java&theme=dark" />
-
-### 📦 Logic Storage (Database & Infrastructure)
-`[MYSQL]` `[POSTGRES]` `[SQLLITE]` `[DOCKER]` `[GIT]` `[LINUX]`
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,docker,git,linux&theme=dark" />
-
----
-
-## 📈 Search Protocol (Stats)
-
-<div align="center">
-
-<table border="0">
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=ryuarnovi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=F39C12&icon_color=F39C12&text_color=ffffff" width="400"/>
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuarnovi&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=F39C12&text_color=ffffff" width="300"/>
+<td align="left" style="padding-left: 20px;">
+  <h3 style="margin-top: 0;">📁 OPERATOR IDENTIFICATION</h3>
+  <ul style="list-style-type: none; padding-left: 0;">
+    <li><b>CODE:</b> <code>ryuarnovi</code></li>
+    <li><b>ROLE:</b> <code>ARCHITECT / ANALYST</code></li>
+    <li><b>AFFILIATION:</b> <code>ENDFIELD ENGINEERING</code></li>
+    <li><b>TRAJECTORY:</b> <code>FULL-STACK / DATA SCIENCE</code></li>
+  </ul>
 </td>
 </tr>
 </table>
 
 <br/>
-<b>Operational Activity Graph:</b><br/>
-<img src="https://ghchart.rshah.org/F39C12/ryuarnovi" width="100%" alt="Github Activity"/>
+
+<!-- CONNECT PROTOCOL -->
+<div align="center">
+  <a href="https://wa.me/message/TSYJ5QPWJWOOM1"><img src="https://img.shields.io/badge/💬_COMM-WHATSAPP-25D366?style=flat-square&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://www.instagram.com/ryurizkinovii"><img src="https://img.shields.io/badge/📡_INTEL-INSTAGRAM-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:rizki.ardiansyah.novianto123@gmail.com"><img src="https://img.shields.io/badge/📩_SIGNAL-GMAIL-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://ryugi.vercel.app"><img src="https://img.shields.io/badge/🌐_NODE-PORTFOLIO-F39C12?style=flat-square&logo=google-chrome&logoColor=white"/></a>
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
 ---
 
-## 📂 Active Operation Logs (Projects)
+## 🛠️ TECHNICAL ARSENAL
 
-```yaml
-MISSION_01: "KlinikOS 2.0"
-STATUS: "DEPLOYED / OPTIMIZING"
-DESCRIPTION: "Comprehensive Medical ERP System."
+### ⚔️ INTERFACE MODULES (FRONTEND)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,astro,tailwind,bootstrap&perline=8&theme=dark" />
+</p>
 
-MISSION_02: "E-Commerce Gateway"
-STATUS: "STABLE"
-DESCRIPTION: "Modern retail solution with high-transaction support."
+### ⚙️ CORE ENGINE (BACKEND & LOGIC)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,laravel,go,rust,py,django,java&perline=8&theme=dark" />
+</p>
 
-MISSION_03: "Signal-Analyzer"
-STATUS: "DATA_MINING"
-DESCRIPTION: "Python-based intelligence tool for pattern recognition."
+### 📦 INTELLIGENCE & INFRA (DATA & DATABASE)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,docker,git,linux,py,numpy,pandas,tensorflow&perline=10&theme=dark" />
+</p>
+
+---
+
+## 📊 OPERATIONAL ANALYSIS
+
+<div align="center">
+
+<table align="center" width="100%">
+<tr>
+<td width="55%">
+  <!-- Stats Card: Transparent Background to fit Dark/Light Mode -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ryuarnovi&show_icons=true&theme=transparent&title_color=F39C12&icon_color=F39C12&text_color=7F8C8D&count_private=true" width="100%"/>
+</td>
+<td width="45%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuarnovi&layout=compact&theme=transparent&title_color=F39C12&text_color=7F8C8D" width="100%"/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- Heatmap using the Amber tone -->
+<img src="https://ghchart.rshah.org/F39C12/ryuarnovi" width="100%" alt="Operational Heatmap"/>
+
+</div>
+
+---
