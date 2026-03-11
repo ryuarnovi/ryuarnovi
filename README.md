@@ -122,7 +122,7 @@ Contoh berikut diisi manual:
 -->
 
 - **UltimatePOS**  
-  [RizkiNovii/UltimatePOS](https://github.com/RizkiNovii/UltimatePOS)  
+  [ryuarnovi](https://github.com/ryuarnovi/)  
   <code>commit terakhir: Initial commit</code>  
   <sub><i>2024-02-12 08:14 WIB</i></sub>
 
