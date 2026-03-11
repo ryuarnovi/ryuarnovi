@@ -64,24 +64,24 @@ AESTHETIC: ARKNIGHTS ENDFIELD // DARK ELEGANT / CENTERED / MINIMALIST
 
 <h2>🚀 ENDFIELD CORE STACK</h2>
 
-<!-- ====================== STACK ====================== -->
-
+<!-- BACKEND LOGIC: use full keys for all logos! -->
 <b>🏁 BACKEND ENGINE & LOGIC</b>
 <p style="margin: 3px 0 2px 0;">Membangun sistem masa depan, performa tinggi & skalabilitas.</p>
 <p>
-  <img src="https://skillicons.dev/icons?i=go,php,laravel,rust,py,django,java&theme=light" />
+  <img src="https://skillicons.dev/icons?i=go,php,laravel,rust,python,django,java&theme=light" />
 </p>
 
 <b>🗄️ DATA INFRASTRUCTURE & ORCHESTRATION</b>
 <p style="margin: 3px 0 2px 0;">Manajemen data & sistem terdistribusi.</p>
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,docker,git,linux&theme=light" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,docker,git,linux&theme=light" />
 </p>
 
 <b>📊 DATA SCIENCE & INTELLIGENCE</b>
 <p style="margin: 3px 0 2px 0;">Data-driven algorithms for strategic decision.</p>
 <p>
-  <img src="https://skillicons.dev/icons?i=py,numpy,pandas,tensorflow,d3&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,tensorflow&perline=4&theme=light" />
+  <img src="https://img.shields.io/badge/d3.js-%23f9a03c?style=for-the-badge&logo=d3.js&logoColor=white" height="28" />
 </p>
 
 </div>
