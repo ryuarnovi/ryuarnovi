@@ -15,13 +15,14 @@
   <img src="https://img.shields.io/badge/ARCH-HIGH_AVAIL-232955?style=flat"/>
   <img src="https://img.shields.io/badge/UPTIME-99.9%25-80C1FF?style=flat"/>
 </p>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=1000&color=5C6BF2&center=true&vCenter=true&width=540&lines=%3E+LOADING+ENDFIELD+MODULES...;%3E+OPTIMIZING+FUTURE+LOGIC;%3E+SKYNET+STABLE+;%3E+SYSTEM+ONLINE..." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=1000&color=5C6BF2&center=true&vCenter=true&width=540&lines=%3E+LOADING+ENDFIELD+MODULES...;%3E+OPTIMIZING+FUTURE+LOGIC;%3E+BACKEND+ORCHESTRATION+READY;%3E+SYSTEM+ONLINE..." alt="Typing SVG"/>
 
 <!-- SYSTEM CORE CARD -->
 <table align="center" width="520px">
 <tr>
   <td align="center" width="100" style="border-right:2px solid #5C6BF2;">
-    <span style="font-size:2.5em;">🖥️</span><br />
+    <span style="font-size:2.5em;"><img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/0bee5e93-858e-4b9e-a56b-36993a6769e8" />
+</span><br />
     <b style="font-family:'JetBrains Mono',monospace;color:#5C6BF2;">SYSTEM<br>CORE</b>
   </td>
   <td align="left" style="padding-left:18px;padding-top:10px;">
@@ -59,23 +60,13 @@
 <b>🏁 BACKEND ENGINE & LOGIC</b>
 <p>Membangun sistem masa depan, performa tinggi & skalabilitas.</p>
 <p>
-  <img src="https://skillicons.dev/icons?i=go,php,laravel,rust,python,django,java&theme=light" />
+  <img src="https://skillicons.dev/icons?i=go,php,laravel,rust,python,django,java&theme=dark" />
 </p>
 
 <b>🗄️ DATA INFRASTRUCTURE & ORCHESTRATION</b>
 <p>Manajemen data & sistem terdistribusi.</p>
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,docker,git,linux&theme=light" />
-</p>
-
-<b>📊 DATA SCIENCE & INTELLIGENCE</b>
-<p>Data-driven algorithms for strategic decision.</p>
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white" height="28"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,docker,git,linux&theme=dark" />
 </p>
 
 </div>
@@ -88,10 +79,10 @@
 <table width="88%" align="center" style="margin:0 auto;">
 <tr>
 <td width="53%" valign="top">
-  <img src="https://github-readme-stats.vercel.app/api?username=ryuarnovi&show_icons=true&theme=transparent&title_color=5C6BF2&icon_color=5C6BF2&text_color=202530&count_private=true" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ryuarnovi&show_icons=true&theme=transparent&title_color=5C6BF2&icon_color=5C6BF2&text_color=7F8C8D&count_private=true" width="100%"/>
 </td>
 <td width="47%" valign="top">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuarnovi&layout=compact&theme=transparent&title_color=5C6BF2&text_color=202530&langs_count=8" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuarnovi&layout=compact&theme=transparent&title_color=5C6BF2&text_color=7F8C8D&langs_count=8" width="100%"/>
 </td>
 </tr>
 </table>
@@ -103,27 +94,8 @@
 
 <div align="center">
 
-<h2>📡 SYSTEM DEPLOYMENT LOG</h2>
+<br/>
 
-<!-- Dynamic section, update manual since GitHub README can't call real API realtime, but here's the template -->
-<p align="left">
-<b>🟠 Repository Public Terbaru:</b>
-</p>
-
-<!--
-Untuk mengisi data realtime, gunakan GitHub Action bernama "actions/github-script" → update file README.md secara otomatis.
-Atau update manual dari hasil API:
-Contoh berikut diisi manual:
-
-- <b>Ultimate POS</b>  
-  <a href="https://github.com/RizkiNovii/UltimatePOS">RizkiNovii/UltimatePOS</a>  
-  <code>commit terakhir: [Message Commit Terakhir]</code>  
-  <sub><i>2024-XX-XX XX:XX WIB</i></sub>
--->
-
-- **UltimatePOS**  
-  [ryuarnovi](https://github.com/ryuarnovi/)  
-  <code>commit terakhir: Initial commit</code>  
-  <sub><i>2024-02-12 08:14 WIB</i></sub>
-
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=1a1a1a&height=60&section=footer&text=TERMINATING%20PROTOCOL%20//%20ENDFIELD&fontSize=18&fontColor=444"/>
 </div>
