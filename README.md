@@ -1,112 +1,107 @@
-<!--
-Theme: Arknights: Endfield (Minimalist Industrial Sci-Fi)
-Primary Colors: #FFFFFF (White), #1A1A1A (Dark Grey), #F39C12 (Technical Orange)
--->
-
 <div align="center">
 
-<!-- Header: Endfield Technical Readout -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=1a1a1a&height=200&section=header&text=OPERATOR:%20RIZKI%20ARIANSYAH&fontSize=45&fontColor=ffffff&desc=FULLSTACK%20DEVELOPER%20|%20DATA%20SCIENTIST&descAlignY=65&descAlign=50"/>
+<!-- HEADER: ENDFIELD TECHNICAL INTERFACE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=1a1a1a&height=220&section=header&text=%E2%96%B6%20ENDFIELD%20INDUSTRIES&fontSize=35&fontColor=F39C12&desc=OPERATOR%20DATA%20READOUT%20//%20RIZKI%20ARIANSYAH&descAlignY=65&descAlign=50&animation=twinkling"/>
 
-<!-- Status Readout -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=4000&pause=1000&color=F39C12&center=true&vCenter=true&width=800&lines=FORGE+FOR+FUTURE+TO+THE+NEXT+LEVEL;SYSTEM+INITIALIZING...;BUILDING+NEXT-GEN+SOLUTIONS;DATA+SYNCHRONIZATION+ACTIVE" alt="Typing SVG" />
+<!-- OPERATOR STATUS BAR -->
+<p align="center">
+  <code><b>STATUS:</b> <span style="color: #2ecc71">ONLINE</span></code> &nbsp;&nbsp; 
+  <code><b>CONNECTION:</b> <span style="color: #3498db">STABLE</span></code> &nbsp;&nbsp; 
+  <code><b>CLEARANCE:</b> <span style="color: #f1c40f">LEVEL 4</span></code>
+</p>
+
+<!-- TYPING LOG -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=%5BPRTS%5D%3A+Initializing+Code+Warrior+Module...;%3E+Fullstack+Operator+Selected;%3E+Data+Science+Synchronization+99%25;%3E+Forge+For+Future+Next+Level..." alt="Typing SVG" />
 
 <br/>
 
-<!-- Identification Badges -->
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-success?style=flat-square&labelColor=333333&color=F39C12"/>
-<img src="https://img.shields.io/badge/DEPT-ENGINEERING-blue?style=flat-square&labelColor=333333&color=5dade2"/>
-<img src="https://img.shields.io/badge/ORIGIN-INDONESIA-white?style=flat-square&labelColor=333333&color=ebf5fb"/>
+<!-- OPERATOR INFO TABLE -->
+<table width="100%">
+<tr>
+<td align="center" width="30%">
+<img src="https://img.icons8.com/ios-filled/100/F39C12/rhombus.png" width="80"/><br/>
+<b>CLASS:</b><br/><code>ELITE DEVELOPER</code>
+</td>
+<td align="left">
+<h3>📁 Operator Dossier</h3>
+<ul>
+  <li><b>Codename:</b> <code>ryuarnovi</code></li>
+  <li><b>Specialty:</b> High-Precision System Architecture</li>
+  <li><b>Combat Type:</b> Fullstack (Melee/Ranged)</li>
+  <li><b>Affiliation:</b> Endfield Technical Division</li>
+</ul>
+</td>
+</tr>
+</table>
 
-<br/><br/>
-
-<!-- Minimalist Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📂 Protocol: External Links
+<!-- TACTICAL CHANNELS (CONNECT) -->
+<h3 align="center">📡 Encrypted Channels</h3>
+<div align="center">
+  <a href="https://wa.me/message/TSYJ5QPWJWOOM1"><img src="https://img.shields.io/badge/COMMS-WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://www.instagram.com/ryurizkinovii"><img src="https://img.shields.io/badge/INTEL-INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:rizki.ardiansyah.novianto123@gmail.com"><img src="https://img.shields.io/badge/SIGNAL-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://ryugi.vercel.app"><img src="https://img.shields.io/badge/BASE-PORTFOLIO-1a1a1a?style=for-the-badge&logo=google-chrome&logoColor=F39C12"/></a>
+</div>
 
-| [Instagram](https://www.instagram.com/ryurizkinovii) | [Portfolio](https://ryugi.vercel.app) | [WhatsApp](https://wa.me/message/TSYJ5QPWJWOOM1) | [Email](mailto:rizki.ardiansyah.novianto123@gmail.com) |
-| :---: | :---: | :---: | :---: |
-
+<br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
 ---
 
-## 🛠️ Technical Modules (Arsenal)
+## 🛠️ Combat Skill Modules (Tech Stack)
 
-### 💻 System Frontend & Core
-> Implementasi antarmuka dengan presisi tinggi.
+### ⚔️ Primary Weapons (Frontend)
+`[HTML5]` `[CSS3]` `[JS/TS]` `[REACT]` `[ASTRO]` `[TAILWIND]`
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,astro,tailwind&theme=dark" />
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,astro,tailwind,bootstrap&theme=light" />
-</p>
+### 🔋 Power Core (Backend)
+`[LARAVEL]` `[GO]` `[RUST]` `[PYTHON]` `[DJANGO]` `[JAVA]`
+<img src="https://skillicons.dev/icons?i=laravel,php,go,rust,py,django,java&theme=dark" />
 
-### ⚙️ Backend Services & Logic
-> Arsitektur server-side dan manajemen data sistem.
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=php,laravel,go,rust,python,django,java&theme=light" />
-</p>
-
-### 🗄️ Database & Environment
-> Penyimpanan data dan infrastruktur pengembangan.
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,docker,git,linux&theme=light" />
-</p>
-
-### 📊 Intelligence Analytics (Data Science)
-> Pengolahan informasi dan optimasi algoritma.
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=py,numpy,pandas,tensorflow,d3&theme=light" />
-</p>
+### 📦 Logic Storage (Database & Infrastructure)
+`[MYSQL]` `[POSTGRES]` `[SQLLITE]` `[DOCKER]` `[GIT]` `[LINUX]`
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,docker,git,linux&theme=dark" />
 
 ---
 
-## 📊 Operational Data (GitHub Stats)
+## 📈 Search Protocol (Stats)
 
 <div align="center">
 
-<table width="100%">
+<table border="0">
 <tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=ryuarnovi&show_icons=true&theme=vitesse-dark&hide_border=true&bg_color=1a1a1a&title_color=F39C12&icon_color=F39C12&text_color=ffffff" width="100%"/>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=ryuarnovi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=F39C12&icon_color=F39C12&text_color=ffffff" width="400"/>
 </td>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuarnovi&layout=compact&theme=vitesse-dark&hide_border=true&bg_color=1a1a1a&title_color=F39C12&text_color=ffffff" width="100%"/>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuarnovi&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=F39C12&text_color=ffffff" width="300"/>
 </td>
 </tr>
 </table>
 
 <br/>
-
-<!-- Heatmap: Simplified -->
-<img src="https://ghchart.rshah.org/F39C12/ryuarnovi" width="100%" alt="Operational Heatmap"/>
-
-</div>
-
----
-
-## 🚀 Active Missions (Featured Projects)
-
-<div align="center">
-
-| Project Name | Primary Stack | Operational Status |
-| :--- | :---: | :--- |
-| **KlinikOS 2.0** | Go / Next.js | 🟢 In Production |
-| **E-Commerce Module** | Laravel / Livewire | 🟡 Optimization |
-| **Data Analytics Suite** | Python / Django | 🔵 Ongoing Analysis |
+<b>Operational Activity Graph:</b><br/>
+<img src="https://ghchart.rshah.org/F39C12/ryuarnovi" width="100%" alt="Github Activity"/>
 
 </div>
 
 ---
 
-## 📡 Terminal Log
+## 📂 Active Operation Logs (Projects)
 
-```ascii
-[SYSTEM]: Operator identified as Rizki Ariansyah.
-[LOG]: "First, solve the problem. Then, write the code."
-[STATUS]: Exploring the frontiers of Fullstack & Data Science.
+```yaml
+MISSION_01: "KlinikOS 2.0"
+STATUS: "DEPLOYED / OPTIMIZING"
+DESCRIPTION: "Comprehensive Medical ERP System."
+
+MISSION_02: "E-Commerce Gateway"
+STATUS: "STABLE"
+DESCRIPTION: "Modern retail solution with high-transaction support."
+
+MISSION_03: "Signal-Analyzer"
+STATUS: "DATA_MINING"
+DESCRIPTION: "Python-based intelligence tool for pattern recognition."
